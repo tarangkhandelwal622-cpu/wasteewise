@@ -1,8 +1,5 @@
 import { NextResponse } from 'next/server';
-import { GoogleGenerativeAI } from '@google/generative-ai';
 import ideasData from '@/data/ideas.json';
-
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 // Build a compact ideas summary for context (top 60 ideas to keep tokens reasonable)
 const IDEAS_CONTEXT = ideasData.slice(0, 60).map(
@@ -64,27 +61,43 @@ export async function POST(request) {
       return NextResponse.json({ error: 'Invalid messages' }, { status: 400 });
     }
 
-    const modelNames = ['gemini-flash-lite-latest', 'gemini-flash-latest', 'gemini-2.5-flash-lite'];
+    const apiKey = process.env.GEMINI_API_KEY;
+    if (!apiKey) {
+      return NextResponse.json(
+        { reply: 'WasteMan is temporarily unavailable because the AI service is not configured. Please try again later.', error: true },
+        { status: 503 }
+      );
+    }
+
+    const modelNames = ['gemini-3.6-flash', 'gemini-3.7-flash'];
     let lastError = null;
     let replyText = null;
 
     for (const modelName of modelNames) {
       try {
-        const model = genAI.getGenerativeModel({
-          model: modelName,
-          systemInstruction: SYSTEM_PROMPT,
-        });
+        const geminiResponse = await fetch(
+          `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${apiKey}`,
+          {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+              contents: messages.map((message) => ({
+                role: message.role === 'user' ? 'user' : 'model',
+                parts: [{ text: message.content }],
+              })),
+            }),
+          }
+        );
 
-        const history = messages.slice(0, -1).map((msg) => ({
-          role: msg.role === 'user' ? 'user' : 'model',
-          parts: [{ text: msg.content }],
-        }));
+        if (!geminiResponse.ok) {
+          throw new Error(`Gemini returned ${geminiResponse.status}`);
+        }
 
-        const lastMessage = messages[messages.length - 1];
-        const chat = model.startChat({ history });
-        const result = await chat.sendMessage(lastMessage.content);
-        replyText = result.response.text();
-        break;
+        const data = await geminiResponse.json();
+        replyText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (replyText) break;
+        throw new Error('Gemini returned an empty response');
       } catch (error) {
         lastError = error;
         console.warn(`Gemini model ${modelName} failed:`, error?.message || error);
@@ -92,7 +105,11 @@ export async function POST(request) {
     }
 
     if (!replyText) {
-      throw lastError || new Error('No Gemini response received');
+      console.warn('Gemini unavailable, using local chatbot fallback:', lastError?.message || 'No response');
+      return NextResponse.json({
+        reply: 'Gemini is temporarily busy, but WasteWise is still here. You can [browse business ideas](/ideas), [search listings](/listings), or [post your waste](/post). What would you like to do?',
+        fallback: true,
+      });
     }
 
     return NextResponse.json({ reply: replyText });
@@ -104,7 +121,7 @@ export async function POST(request) {
         reply: "I'm having a moment of technical difficulty! 🔧 Please try again in a few seconds. In the meantime, you can [browse our 240+ business ideas](/ideas) or [view active listings](/listings).",
         error: true,
       },
-      { status: 200 }
+      { status: 502 }
     );
   }
 }

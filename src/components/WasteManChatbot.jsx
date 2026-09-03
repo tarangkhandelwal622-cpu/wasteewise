@@ -122,7 +122,10 @@ export default function WasteManChatbot() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ messages: newMessages }),
       });
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || typeof data.reply !== 'string') {
+        throw new Error(data.error || 'Chat request failed');
+      }
       setMessages([...newMessages, { role: 'assistant', content: data.reply }]);
     } catch {
       setMessages([...newMessages, {
