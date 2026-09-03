@@ -1,0 +1,2717 @@
+[
+  {
+    "id": 1,
+    "wasteSource": "Orange/citrus peel",
+    "category": "Food & Agricultural",
+    "businessIdea": "cold-pressed essential oil & perfume",
+    "steps": [
+      "Tie up with 2-3 juice stalls/fruit vendors for free daily peel pickup",
+      "Get a small tabletop steam distiller (₹15,000-40,",
+      "and learn extraction",
+      "Formulate perfume with a carrier base, test scent stability over a few weeks",
+      "Design simple sustainability-led branding",
+      "Sell first 50-100 units locally/Instagram to prove demand",
+      "Once proven, approach corporate gifting companies and list on Etsy/Amazon"
+    ]
+  },
+  {
+    "id": 2,
+    "wasteSource": "Mixed fruit/vegetable peel",
+    "category": "Food & Agricultural",
+    "businessIdea": "bio-enzyme multipurpose cleaner",
+    "steps": [
+      "Source peels free from mandis/juice shops",
+      "Ferment peels + jaggery + water in food-grade drums for 60-90 days",
+      "Filter and bottle as floor/dish cleaner",
+      "Check FSSAI/BIS norms if scaling",
+      "Sell to housing societies, organic stores, and hotels first for feedback before mass production"
+    ]
+  },
+  {
+    "id": 3,
+    "wasteSource": "Used coffee grounds",
+    "category": "Food & Agricultural",
+    "businessIdea": "body scrubs, soap & fuel briquettes",
+    "steps": [
+      "Partner with 3-5 cafes for daily used-grounds pickup",
+      "Dry the grounds",
+      "For cosmetics: blend into a scrub base with oils, register under FSSAI/cosmetic rules",
+      "For fuel: compress into briquettes for biomass burners",
+      "Test both product lines small before choosing which to scale"
+    ]
+  },
+  {
+    "id": 4,
+    "wasteSource": "Bakery/brewery waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "animal feed pellets",
+    "steps": [
+      "Tie up with local bakeries/breweries for daily reject/spent-grain pickup",
+      "Dry and pelletise the waste",
+      "Test with a few local dairy/poultry farms",
+      "Once quality is consistent, sign standing supply contracts with feed mills or cooperatives"
+    ]
+  },
+  {
+    "id": 5,
+    "wasteSource": "Temple floral waste",
+    "category": "Other",
+    "businessIdea": "incense sticks/cones & vermicompost",
+    "steps": [
+      "Approach 1-2 temples directly, offer free daily flower-waste pickup",
+      "Sun-dry and hand-process into incense powder, roll into sticks/cones, or compost with worms",
+      "Get basic quality/packaging right for retail",
+      "Sell first batches locally, then approach pooja-product retailers and gifting companies",
+      "Reinvest profits into scaling collection to more temples before adding new products"
+    ]
+  },
+  {
+    "id": 6,
+    "wasteSource": "Crop stubble/straw",
+    "category": "Food & Agricultural",
+    "businessIdea": "mushroom substrate or biochar",
+    "steps": [
+      "Contract with farmers near harvest season for stubble at low/no cost",
+      "Simplest start: dry and sell straw as mushroom-growing substrate to local growers",
+      "For biochar: invest in a small pyrolysis unit once demand is proven, sell to nurseries/organic farms",
+      "Check state agriculture department subsidies for anti-stubble-burning ventures"
+    ]
+  },
+  {
+    "id": 7,
+    "wasteSource": "Coconut shell/husk",
+    "category": "Food & Agricultural",
+    "businessIdea": "coco-peat growing medium",
+    "steps": [
+      "Tie up with coconut water/oil vendors for shell and husk collection",
+      "Shred and compress husk into coco-peat bricks (low equipment need)",
+      "Package for gardening/nursery buyers",
+      "For higher value, explore activated carbon production once cash flow supports a kiln/furnace"
+    ]
+  },
+  {
+    "id": 8,
+    "wasteSource": "Sugarcane bagasse",
+    "category": "Food & Agricultural",
+    "businessIdea": "biodegradable plates, cups & cutlery",
+    "steps": [
+      "Source bagasse cheaply from sugarcane juice stalls or sugar mills",
+      "Start by outsourcing moulding to an existing job-work unit to test orders before buying your own press (₹3-8 lakh)",
+      "Get FSSAI food-contact approval",
+      "Pitch to caterers, hotels and QSRs looking to replace plastic/thermocol under the plastic-ban rules"
+    ]
+  },
+  {
+    "id": 9,
+    "wasteSource": "Spent tea leaves",
+    "category": "Food & Agricultural",
+    "businessIdea": "natural dye & compost",
+    "steps": [
+      "Collect used tea leaves from tea stalls/estates",
+      "Dry and package as natural dye for textile/craft units, or compost for nurseries",
+      "Start with a small test batch sold to local textile/craft cooperatives before scaling"
+    ]
+  },
+  {
+    "id": 10,
+    "wasteSource": "Garment factory scraps",
+    "category": "Textile",
+    "businessIdea": "upcycled bags, quilts & cushion stuffing",
+    "steps": [
+      "Tie up with 2-3 garment units/tailors for scrap fabric",
+      "Start hand-sewing small batches (bags, patchwork quilts) with just a sewing machine",
+      "For fibre-fill/insulation, add a fabric shredder once volumes justify it",
+      "Sell first pieces on Instagram/Etsy, then approach home-decor and gifting brands for bulk orders"
+    ]
+  },
+  {
+    "id": 11,
+    "wasteSource": "Leather offcuts",
+    "category": "Textile",
+    "businessIdea": "coasters, keychains & small accessories",
+    "steps": [
+      "Source offcuts from tanneries/footwear units in leather-industry clusters",
+      "Hand-cut and assemble small accessories with minimal tooling",
+      "Sell first batch to local boutiques/Etsy",
+      "Scale into machine-stitched bags once orders are consistent, and approach corporate gifting buyers"
+    ]
+  },
+  {
+    "id": 12,
+    "wasteSource": "Salon hair waste",
+    "category": "Other",
+    "businessIdea": "wigs/extensions or oil-spill absorbent booms",
+    "steps": [
+      "Partner with local salons for daily hair-sweep collection",
+      "Sort and clean the hair",
+      "Easiest start: sell raw sorted hair to wig manufacturers/exporters",
+      "Alternative: felt hair into oil-absorbent mats and approach industrial clean-up companies"
+    ]
+  },
+  {
+    "id": 13,
+    "wasteSource": "Sorted plastic scrap (PET/HDPE/LDPE/PP)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled granules, pavers or plastic lumber",
+    "steps": [
+      "Don't collect waste yourself first — buy pre-segregated scrap via local kabadiwalas or a recycling marketplace",
+      "Start with a small shredding + granulating unit (₹5-15 lakh) to make PCR granules",
+      "Once cash flow is stable, add a paver/tile or lumber-moulding line for higher margin",
+      "Sell granules to packaging/FMCG manufacturers needing recycled content"
+    ]
+  },
+  {
+    "id": 14,
+    "wasteSource": "Waste tyres",
+    "category": "Plastic & Industrial",
+    "businessIdea": "crumb rubber, playground flooring or pyrolysis oil",
+    "steps": [
+      "Tie up with local tyre shops/scrap dealers for waste tyre collection",
+      "Start as an aggregator supplying tyres to an existing pyrolysis/crumb-rubber plant",
+      "Only invest in your own pyrolysis unit once volumes justify the high capital cost"
+    ]
+  },
+  {
+    "id": 15,
+    "wasteSource": "Used cooking oil (UCO)",
+    "category": "Food & Agricultural",
+    "businessIdea": "biodiesel feedstock & soap",
+    "steps": [
+      "Tie up with restaurants/food carts for UCO collection",
+      "For soap: set up a simple cold-process unit (very low cost)",
+      "For biodiesel: supply collected UCO to an existing licensed biodiesel plant rather than refining it yourself initially",
+      "Register as an aggregator under FSSAI's RUCO programme if available in your area"
+    ]
+  },
+  {
+    "id": 16,
+    "wasteSource": "Tetra Pak/multilayer packaging waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "roofing sheets & particle boards",
+    "steps": [
+      "Partner with a Tetra Pak collection drive or corporate cafeteria for carton waste",
+      "Job-work with an existing recycler to test demand before investing in your own hot-press moulding machine",
+      "Pitch to construction companies, low-cost housing NGOs and furniture makers"
+    ]
+  },
+  {
+    "id": 17,
+    "wasteSource": "Small e-waste (phones, laptops, cables)",
+    "category": "E-Waste",
+    "businessIdea": "refurbishment & resale or aggregation",
+    "steps": [
+      "For refurbishment: test/repair functional-but-old devices and resell them",
+      "For aggregation: become a collection partner for an authorised recycler rather than dismantling devices yourself (dismantling requires legal authorisation)",
+      "Build a simple pickup/drop process for households and offices to feed your pipeline"
+    ]
+  },
+  {
+    "id": 18,
+    "wasteSource": "Metal scrap/swarf",
+    "category": "Plastic & Industrial",
+    "businessIdea": "metal decor items or aggregated ingots",
+    "steps": [
+      "Tie up with local fabrication workshops for scrap offcuts",
+      "For decor/craft items, basic welding/cutting tools are enough to start",
+      "For ingots, sell scrap directly to an existing foundry/smelter rather than melting it yourself"
+    ]
+  },
+  {
+    "id": 19,
+    "wasteSource": "Used lithium-ion batteries (EV/e-rickshaw)",
+    "category": "E-Waste",
+    "businessIdea": "safe aggregation for recycling",
+    "steps": [
+      "Do not attempt to dismantle batteries yourself — fire/safety risk and needs authorisation",
+      "Set up a certified, safe collection/storage point",
+      "Build relationships with EV workshops and repair shops as regular sources",
+      "Forward collected batteries to an authorised battery recycler"
+    ]
+  },
+  {
+    "id": 20,
+    "wasteSource": "Construction & demolition (C&D) debris",
+    "category": "Construction",
+    "businessIdea": "recycled aggregate & paver blocks",
+    "steps": [
+      "Tie up with local demolition contractors for debris off-take",
+      "Start as an aggregator supplying an existing C&D recycling plant",
+      "Once volumes justify it, invest in a small paver-block moulding unit",
+      "Check municipal rules — many cities mandate recycled C&D content in government construction"
+    ]
+  },
+  {
+    "id": 21,
+    "wasteSource": "Sawdust/wood waste",
+    "category": "Construction",
+    "businessIdea": "fuel briquettes or particle board",
+    "steps": [
+      "Tie up with sawmills/carpentry units for sawdust off-take",
+      "Invest in a briquetting machine (₹1.5-5 lakh) as the lowest-complexity entry",
+      "Sell briquettes to small factories/boilers and brick kilns using biomass fuel"
+    ]
+  },
+  {
+    "id": 22,
+    "wasteSource": "Waste paper/newsprint",
+    "category": "Other",
+    "businessIdea": "recycled stationery & seed paper",
+    "steps": [
+      "Source waste paper from newspaper vendors, offices and print shops",
+      "Pulp it and use simple mould-and-deckle frames to make recycled notebooks or seed paper (very low equipment cost)",
+      "Sell to corporate gifting teams, eco-stationery brands, schools and event/wedding planners"
+    ]
+  },
+  {
+    "id": 23,
+    "wasteSource": "Eggshell waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "fertilizer/soil amendment powder",
+    "steps": [
+      "Tie up with restaurants, bakeries and egg traders for shell collection",
+      "Clean, dry and grind shells into powder",
+      "Package and sell to organic farming/nursery brands",
+      "Consider a food-grade calcium supplement line later (needs FSSAI approval)"
+    ]
+  },
+  {
+    "id": 24,
+    "wasteSource": "Cigarette butt waste",
+    "category": "Other",
+    "businessIdea": "cushion/soft-toy filling or industrial absorbent material",
+    "steps": [
+      "Set up collection bins with local shops, hotels and bars",
+      "Clean and dry the cellulose acetate filter material",
+      "Start simple — use as stuffing/insulation material and sell to furnishing/soft-toy manufacturers",
+      "Research chemical-extraction methods for higher-value industrial absorbent products once basic operations are stable"
+    ]
+  },
+  {
+    "id": 25,
+    "wasteSource": "Grape pomace (winery waste)",
+    "category": "Food & Agricultural",
+    "businessIdea": "grapeseed oil & skincare extracts",
+    "steps": [
+      "Partner with a local winery/juice unit for seasonal pomace off-take",
+      "Cold-press grapeseed oil with basic equipment",
+      "Sell to cosmetic formulators, or dry and sell as cattle feed supplement in the off-season to keep revenue steady year-round"
+    ]
+  },
+  {
+    "id": 26,
+    "wasteSource": "Cotton ginning waste (short fiber/trash)",
+    "category": "Textile",
+    "businessIdea": "nonwoven mats & cushion stuffing",
+    "steps": [
+      "Tie up with cotton ginning mills for the fibre waste/trash they discard",
+      "Clean and card the fibre using a basic carding machine",
+      "Press into nonwoven mats or use loose as cushion/toy stuffing",
+      "Sell first batches to local upholstery and toy makers before approaching bulk furnishing buyers"
+    ]
+  },
+  {
+    "id": 27,
+    "wasteSource": "Cotton stalks",
+    "category": "Textile",
+    "businessIdea": "particle board & fuel pellets",
+    "steps": [
+      "Contract with cotton farmers post-harvest for stalks (usually burnt in the field)",
+      "Chip and dry the stalks",
+      "Start by selling as biomass fuel to nearby brick kilns/boilers",
+      "Once volumes are steady, invest in a hot-press particle-board line for higher value"
+    ]
+  },
+  {
+    "id": 28,
+    "wasteSource": "Banana pseudostem fiber",
+    "category": "Food & Agricultural",
+    "businessIdea": "eco textile fiber & rope",
+    "steps": [
+      "Partner with banana farms for the pseudostem left after harvest (currently discarded)",
+      "Use a small fibre-extraction machine to pull out the fibre",
+      "Sell raw fibre to textile/rope makers first",
+      "Add value later by weaving it into mats, bags or paper yourself"
+    ]
+  },
+  {
+    "id": 29,
+    "wasteSource": "Pineapple leaf fiber",
+    "category": "Textile",
+    "businessIdea": "vegan leather-style material",
+    "steps": [
+      "Tie up with pineapple farms/processing units for leftover leaves",
+      "Learn or job-work the fibre-extraction and felting process (similar to Piñatex)",
+      "Start by supplying raw processed fibre sheets to small accessory/footwear makers",
+      "Scale into your own finished products once the process is proven"
+    ]
+  },
+  {
+    "id": 30,
+    "wasteSource": "Corn cob waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "activated carbon or cattle feed",
+    "steps": [
+      "Source cobs from corn processing units/mandis",
+      "Simplest start: dry, grind and sell as roughage for cattle feed",
+      "Higher value: invest in a small kiln to carbonise cobs into activated carbon, sold to water-filter makers",
+      "Test cattle feed route first — needs far less capital"
+    ]
+  },
+  {
+    "id": 31,
+    "wasteSource": "Corn husk",
+    "category": "Food & Agricultural",
+    "businessIdea": "eco-friendly packaging & craft paper",
+    "steps": [
+      "Collect husk from corn vendors/processing units",
+      "Dry and either weave into packaging material (baskets, wraps) or pulp for craft paper",
+      "Start with handmade small-batch products sold to gifting/craft buyers before scaling to a pulping line"
+    ]
+  },
+  {
+    "id": 32,
+    "wasteSource": "Groundnut/peanut shell",
+    "category": "Food & Agricultural",
+    "businessIdea": "fuel briquettes & particle board",
+    "steps": [
+      "Tie up with groundnut oil mills/traders for shell waste",
+      "Start with a briquetting machine (lower cost) to make fuel logs for local industry",
+      "Once demand is proven, explore particle-board pressing for furniture-grade panels"
+    ]
+  },
+  {
+    "id": 33,
+    "wasteSource": "Mustard husk/oil cake",
+    "category": "Food & Agricultural",
+    "businessIdea": "briquettes & cattle feed supplement",
+    "steps": [
+      "Source husk/cake from mustard oil mills",
+      "Dry and sell as cattle feed supplement to local dairies first (near-zero processing)",
+      "For fuel, compress into briquettes for boiler/kiln buyers"
+    ]
+  },
+  {
+    "id": 34,
+    "wasteSource": "Rice husk",
+    "category": "Food & Agricultural",
+    "businessIdea": "rice husk ash for bricks & cement additive",
+    "steps": [
+      "Tie up with rice mills for husk (usually burnt or dumped)",
+      "Start as a raw-husk supplier to brick kilns/boiler operators who already burn husk as fuel",
+      "Once you have volume, invest in controlled-burn equipment to produce rice husk ash, sold to cement/brick manufacturers as a pozzolanic additive"
+    ]
+  },
+  {
+    "id": 35,
+    "wasteSource": "Wheat bran",
+    "category": "Food & Agricultural",
+    "businessIdea": "cattle feed & bioethanol feedstock",
+    "steps": [
+      "Partner with flour mills for bran (a low-value byproduct for them)",
+      "Package and sell directly to dairy/cattle feed buyers — needs almost no processing",
+      "For higher value, explore supplying bran as feedstock to an existing bioethanol plant"
+    ]
+  },
+  {
+    "id": 36,
+    "wasteSource": "Areca nut sheath",
+    "category": "Food & Agricultural",
+    "businessIdea": "biodegradable plates & bowls",
+    "steps": [
+      "Tie up with areca nut farmers for sheath waste (falls naturally, usually unused)",
+      "Buy/rent a small hot-press moulding machine to shape sheaths into plates/bowls (no chemicals needed — just heat and pressure)",
+      "Get FSSAI food-contact clearance",
+      "Sell to caterers, hotels and eco-packaging distributors"
+    ]
+  },
+  {
+    "id": 37,
+    "wasteSource": "Jute mill waste (jute stick/caddis)",
+    "category": "Textile",
+    "businessIdea": "handmade paper & particle board",
+    "steps": [
+      "Source waste jute stick from jute mills/farmers (currently low-value byproduct)",
+      "Start with handmade paper production — simple pulping and sheet-forming equipment",
+      "Scale into particle board pressing once you have consistent volume and buyers"
+    ]
+  },
+  {
+    "id": 38,
+    "wasteSource": "Wool mill waste (shoddy)",
+    "category": "Textile",
+    "businessIdea": "insulation felt & carpets",
+    "steps": [
+      "Tie up with woollen mills/garment units for offcut and shoddy wool waste",
+      "Card and felt the waste wool into insulation batts or carpet underlay using basic felting equipment",
+      "Sell first to local builders/furnishing units before approaching larger construction-material buyers"
+    ]
+  },
+  {
+    "id": 39,
+    "wasteSource": "Silk cocoon waste (pierced/damaged cocoons)",
+    "category": "Textile",
+    "businessIdea": "silk waste yarn & paper",
+    "steps": [
+      "Partner with silk reeling units for cocoons rejected for thread (pierced, double, stained)",
+      "Process into spun silk waste yarn (needs basic spinning equipment or job-work), or pulp into textured silk paper",
+      "Sell yarn to weavers and paper to craft/gifting brands"
+    ]
+  },
+  {
+    "id": 40,
+    "wasteSource": "Poultry feather waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "feather meal animal feed",
+    "steps": [
+      "Tie up with poultry processing units/slaughterhouses for feather waste (a disposal cost for them)",
+      "Use a hydrolysis/rendering process (can start via job-work with an existing rendering plant) to convert feathers into protein-rich feather meal",
+      "Sell to poultry and cattle feed manufacturers"
+    ]
+  },
+  {
+    "id": 41,
+    "wasteSource": "Slaughterhouse bone waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "bone meal fertilizer & gelatin feedstock",
+    "steps": [
+      "Partner with slaughterhouses/butcher markets for bone waste",
+      "Simplest start: clean, dry and grind bones into bone meal, sold as organic fertilizer to farms/nurseries",
+      "Higher value: supply cleaned bone as feedstock to an existing gelatin manufacturer"
+    ]
+  },
+  {
+    "id": 42,
+    "wasteSource": "Horn & hoof waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "buttons & handicraft material",
+    "steps": [
+      "Source horn/hoof waste from slaughterhouses and leather-processing units",
+      "Clean, boil and shape into raw button blanks or handicraft pieces using basic tools",
+      "Sell to garment button suppliers and craft/export buyers"
+    ]
+  },
+  {
+    "id": 43,
+    "wasteSource": "Slaughterhouse blood waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "blood meal fertilizer/feed",
+    "steps": [
+      "Tie up with slaughterhouses for blood waste (an environmental liability for them, so usually free/cheap)",
+      "Dry (sun-drying or a small dryer) and grind into blood meal",
+      "Sell as a high-nitrogen organic fertilizer input or protein-rich animal feed additive"
+    ]
+  },
+  {
+    "id": 44,
+    "wasteSource": "Distillery spent wash",
+    "category": "Food & Agricultural",
+    "businessIdea": "biogas & organic fertilizer",
+    "steps": [
+      "Partner with a local distillery/brewery for spent wash off-take (a major pollution liability for them)",
+      "Start with a simple anaerobic digester to convert it into biogas for local use/sale, with the digested slurry sold as liquid fertilizer",
+      "Scale digester capacity as demand for both biogas and fertilizer grows"
+    ]
+  },
+  {
+    "id": 45,
+    "wasteSource": "Molasses waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "bioethanol/cattle feed supplement",
+    "steps": [
+      "Tie up with sugar mills for surplus/low-grade molasses",
+      "Simplest route: sell as a cattle feed energy supplement to dairies",
+      "Higher value: supply as feedstock to an existing ethanol distillery rather than building your own"
+    ]
+  },
+  {
+    "id": 46,
+    "wasteSource": "Rubber wood waste (post-tapping trees)",
+    "category": "Construction",
+    "businessIdea": "furniture & particleboard",
+    "steps": [
+      "Partner with rubber plantations for wood from trees past their latex-yielding age (often just felled and discarded)",
+      "Start by selling seasoned timber to local furniture workshops",
+      "Scale into your own particleboard or furniture-component manufacturing once supply is steady"
+    ]
+  },
+  {
+    "id": 47,
+    "wasteSource": "Bamboo offcuts",
+    "category": "Construction",
+    "businessIdea": "handicrafts & furniture components",
+    "steps": [
+      "Tie up with bamboo furniture/craft workshops for offcut waste",
+      "Start hand-crafting small items (coasters, lamps, planters) — minimal tooling needed",
+      "Scale into furniture components or laminated bamboo boards as orders grow"
+    ]
+  },
+  {
+    "id": 48,
+    "wasteSource": "Cashew shell (CNSL) waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "industrial resin feedstock supply",
+    "steps": [
+      "Partner with cashew processing units for shell waste (a byproduct of nut extraction)",
+      "Start as a raw-shell aggregator supplying an existing CNSL (cashew nut shell liquid) extraction unit",
+      "Consider your own extraction unit only once you have consistent bulk supply, as it needs specialised equipment"
+    ]
+  },
+  {
+    "id": 49,
+    "wasteSource": "Tomato pomace (processing waste)",
+    "category": "Other",
+    "businessIdea": "lycopene extract & animal feed",
+    "steps": [
+      "Tie up with tomato ketchup/paste processing units for pomace (skins, seeds) waste",
+      "Simplest start: dry and sell as cattle feed",
+      "Higher value: partner with a lab/extraction facility to recover lycopene for cosmetic/nutraceutical buyers"
+    ]
+  },
+  {
+    "id": 50,
+    "wasteSource": "Potato peel waste",
+    "category": "Other",
+    "businessIdea": "starch extraction & cattle feed",
+    "steps": [
+      "Partner with potato chip/fries processing units for peel waste",
+      "Start by drying and selling as cattle feed (very low processing)",
+      "For higher value, invest in simple starch-extraction equipment and sell starch to food/textile-sizing industries"
+    ]
+  },
+  {
+    "id": 51,
+    "wasteSource": "Mango peel & seed waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "mango butter for cosmetics",
+    "steps": [
+      "Tie up with mango pulp/juice processing units for peel and seed waste (seasonal but high volume)",
+      "Extract mango kernel butter using a small cold-press unit",
+      "Sell to natural skincare formulators; use peel waste separately for compost/dye to avoid seasonal downtime"
+    ]
+  },
+  {
+    "id": 52,
+    "wasteSource": "Pomegranate peel waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "natural dye & tannin extract",
+    "steps": [
+      "Partner with pomegranate juice vendors/processing units for peel waste",
+      "Dry and grind peels, extract as natural dye powder or tannin extract using simple water-extraction methods",
+      "Sell to textile dyers and leather tanning units"
+    ]
+  },
+  {
+    "id": 53,
+    "wasteSource": "Watermelon rind waste",
+    "category": "Other",
+    "businessIdea": "pickle, candy & compost",
+    "steps": [
+      "Tie up with juice stalls/fruit markets for rind waste (seasonal, high volume in summer)",
+      "Simplest start: make and sell rind pickle/candy locally",
+      "Use unsold rind for compost to avoid waste during off-season"
+    ]
+  },
+  {
+    "id": 54,
+    "wasteSource": "Jackfruit waste (rind & seed)",
+    "category": "Food & Agricultural",
+    "businessIdea": "jackfruit seed flour & compost",
+    "steps": [
+      "Partner with jackfruit vendors/processing units for rind and seed waste",
+      "Dry and grind seeds into gluten-free flour, sold to health-food brands",
+      "Compost rind waste as a secondary revenue stream"
+    ]
+  },
+  {
+    "id": 55,
+    "wasteSource": "Marigold flower waste",
+    "category": "Other",
+    "businessIdea": "natural yellow dye",
+    "steps": [
+      "Tie up with flower markets/temples for marigold-specific waste (distinct stream from mixed floral waste)",
+      "Dry and extract dye through simple water-boiling extraction",
+      "Package as natural dye powder/liquid for textile and craft dyers"
+    ]
+  },
+  {
+    "id": 56,
+    "wasteSource": "Henna leaf processing waste",
+    "category": "Other",
+    "businessIdea": "organic fertilizer & dye cake",
+    "steps": [
+      "Partner with henna powder manufacturing units for leftover leaf residue",
+      "Dry and repackage as an organic fertilizer/soil conditioner, or compress into dye cakes for craft dyers",
+      "Sell to nurseries and textile-craft buyers"
+    ]
+  },
+  {
+    "id": 57,
+    "wasteSource": "Soap nut (reetha) shell waste",
+    "category": "Other",
+    "businessIdea": "natural detergent",
+    "steps": [
+      "Source reetha shell waste from Ayurvedic/herbal processing units",
+      "Simplest product: dried whole/crushed shells packaged as a natural laundry detergent",
+      "Sell through eco-conscious retail and D2C online channels"
+    ]
+  },
+  {
+    "id": 58,
+    "wasteSource": "Paddy straw",
+    "category": "Plastic & Industrial",
+    "businessIdea": "paper pulp & packaging boards",
+    "steps": [
+      "Contract with rice farmers for straw at harvest (an alternative to burning)",
+      "Start by supplying straw to an existing paper/board mill as pulp feedstock",
+      "Invest in your own small pulping unit only once supply and buyer demand are proven"
+    ]
+  },
+  {
+    "id": 59,
+    "wasteSource": "Cardboard/corrugated box waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled packaging boards",
+    "steps": [
+      "Tie up with retail stores, warehouses and e-commerce delivery hubs for discarded cardboard",
+      "Sort and bale it, sell to an existing paper mill as feedstock, or invest in a small board-remaking unit for direct packaging production",
+      "Approach e-commerce and FMCG companies as recurring bulk buyers"
+    ]
+  },
+  {
+    "id": 60,
+    "wasteSource": "Wooden shipping pallet waste",
+    "category": "Construction",
+    "businessIdea": "upcycled furniture",
+    "steps": [
+      "Partner with warehouses/factories for discarded pallets (often given away free)",
+      "Dismantle, clean and re-assemble into furniture (tables, shelves) using basic carpentry tools",
+      "Sell first pieces locally/Instagram, then approach cafes and home-decor retailers for bulk orders"
+    ]
+  },
+  {
+    "id": 61,
+    "wasteSource": "Old denim/jeans waste",
+    "category": "Textile",
+    "businessIdea": "upcycled bags & insulation material",
+    "steps": [
+      "Source discarded denim from garment factories or thrift/donation drives",
+      "Start hand-sewing bags, aprons and accessories — minimal equipment",
+      "Shred unusable scraps into insulation/stuffing material as a secondary product line"
+    ]
+  },
+  {
+    "id": 62,
+    "wasteSource": "Old saree/dupatta waste",
+    "category": "Other",
+    "businessIdea": "upcycled quilts, rugs & dohars",
+    "steps": [
+      "Partner with tailoring shops or set up a community donation drive for old sarees",
+      "Hand-stitch into patchwork quilts (dohars) and rugs — a traditional craft needing only a sewing machine",
+      "Sell through Etsy and local home-decor stores, highlighting the upcycled/heritage story"
+    ]
+  },
+  {
+    "id": 63,
+    "wasteSource": "Event & wedding decor waste (banners, backdrops, flex)",
+    "category": "Other",
+    "businessIdea": "recycled bags & bunting",
+    "steps": [
+      "Tie up with event decorators/banner printers for post-event flex and banner waste",
+      "Clean and stitch into tote bags, rain covers or bunting",
+      "Sell back to event companies as a sustainable add-on, and to retail/craft buyers"
+    ]
+  },
+  {
+    "id": 64,
+    "wasteSource": "Old magazines/newspapers",
+    "category": "Other",
+    "businessIdea": "paper bead jewelry",
+    "steps": [
+      "Source waste magazines/newspapers from vendors, offices or scrap dealers",
+      "Roll and shape strips into beads, seal and string into jewelry — needs only basic craft tools",
+      "Sell via Etsy, craft fairs and gifting stores"
+    ]
+  },
+  {
+    "id": 65,
+    "wasteSource": "Old books waste",
+    "category": "Other",
+    "businessIdea": "recycled paper crafts & notebooks",
+    "steps": [
+      "Source discarded/damaged books from libraries, schools or scrap dealers",
+      "Repurpose covers/pages into notebook covers, gift tags or pulp for new recycled paper",
+      "Sell to eco-stationery buyers and schools"
+    ]
+  },
+  {
+    "id": 66,
+    "wasteSource": "PET bottle cap waste",
+    "category": "Other",
+    "businessIdea": "mosaic art & keychains",
+    "steps": [
+      "Set up collection points at schools, offices or cafes for bottle caps",
+      "Clean and sort by colour, assemble into mosaic art panels or melt-mould into keychains/coasters",
+      "Sell as decor pieces and corporate CSR-branded gifts"
+    ]
+  },
+  {
+    "id": 67,
+    "wasteSource": "Fishing net waste (ghost nets)",
+    "category": "Food & Agricultural",
+    "businessIdea": "recycled nylon yarn & eyewear",
+    "steps": [
+      "Partner with fishing harbours/cooperatives for discarded nets (a major ocean-pollution source they're often glad to hand over)",
+      "Start as an aggregator supplying cleaned nets to an existing nylon-regeneration facility",
+      "As volumes grow, explore direct partnerships with eyewear/textile brands using regenerated nylon"
+    ]
+  },
+  {
+    "id": 68,
+    "wasteSource": "Ocean/beach plastic waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled accessories & apparel",
+    "steps": [
+      "Organise or partner with local beach-cleanup drives for collection",
+      "Sort and bale plastic by type, sell to an existing ocean-plastic recycler, or use small batches yourself to make accessories (bracelets, keychains)",
+      "Use the clean-up story as your core marketing angle for retail sales"
+    ]
+  },
+  {
+    "id": 69,
+    "wasteSource": "Expanded polystyrene (thermocol/EPS) waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "photo frames & moulded decor",
+    "steps": [
+      "Tie up with electronics/appliance retailers for EPS packaging waste (usually discarded immediately)",
+      "Use a hot-wire cutter to shape into photo frames, decor pieces or craft moulds",
+      "Sell through gifting and craft channels; explore EPS densifying equipment for bulk recycling as you scale"
+    ]
+  },
+  {
+    "id": 70,
+    "wasteSource": "Packaging peanuts/loose-fill waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "insulation board",
+    "steps": [
+      "Source loose-fill packaging waste from e-commerce warehouses and courier hubs",
+      "Compress and bind into insulation board sheets using a simple heat-press",
+      "Sell to construction and packaging-material buyers"
+    ]
+  },
+  {
+    "id": 71,
+    "wasteSource": "Old mattress foam waste",
+    "category": "Other",
+    "businessIdea": "shredded foam for cushions & carpet underlay",
+    "steps": [
+      "Partner with mattress retailers/hotels for old mattress disposal (often a paid problem for them)",
+      "Strip and shred foam using a basic shredder",
+      "Sell shredded foam to cushion manufacturers and carpet-underlay buyers"
+    ]
+  },
+  {
+    "id": 72,
+    "wasteSource": "Old/discarded furniture waste",
+    "category": "Other",
+    "businessIdea": "refurbished & upcycled furniture",
+    "steps": [
+      "Source discarded furniture from house clearances, offices and hotels",
+      "Repair, refinish or creatively rework pieces with basic carpentry/upholstery skills",
+      "Sell through local marketplaces, Instagram and home-decor stores; higher margins than new-material furniture"
+    ]
+  },
+  {
+    "id": 73,
+    "wasteSource": "Foundry sand waste",
+    "category": "Construction",
+    "businessIdea": "recycled sand for construction blocks",
+    "steps": [
+      "Tie up with metal foundries for used moulding sand (a disposal cost for them)",
+      "Test and blend it into concrete blocks/paver mixes at a small block-making unit",
+      "Sell to local construction contractors as a cheaper aggregate alternative"
+    ]
+  },
+  {
+    "id": 74,
+    "wasteSource": "Fly ash (thermal power plant waste)",
+    "category": "Construction",
+    "businessIdea": "fly ash bricks",
+    "steps": [
+      "Partner with a thermal power plant for fly ash off-take (many are required to give it away to reduce disposal liability)",
+      "Invest in a small fly-ash brick press",
+      "Sell bricks to local construction contractors and builders — often cheaper and stronger than clay bricks"
+    ]
+  },
+  {
+    "id": 75,
+    "wasteSource": "Bottom ash waste",
+    "category": "Construction",
+    "businessIdea": "road construction aggregate",
+    "steps": [
+      "Tie up with power plants/incinerators for bottom ash",
+      "Process (crush/screen) into a construction-grade aggregate",
+      "Supply to road contractors and municipal infrastructure projects, checking local specifications for approved use"
+    ]
+  },
+  {
+    "id": 76,
+    "wasteSource": "Blast furnace slag waste",
+    "category": "Other",
+    "businessIdea": "cement additive supply",
+    "steps": [
+      "Partner with steel plants for slag byproduct",
+      "Start as an aggregator/processor supplying crushed slag to cement manufacturers as a supplementary material",
+      "Explore your own grinding unit once volumes justify the investment"
+    ]
+  },
+  {
+    "id": 77,
+    "wasteSource": "Marble slurry/dust waste",
+    "category": "Construction",
+    "businessIdea": "tiles & wall putty",
+    "steps": [
+      "Tie up with marble processing units for slurry waste (a major pollution issue for them)",
+      "Dry and process into decorative tiles or blend into wall-putty formulations",
+      "Sell to construction material distributors and local builders"
+    ]
+  },
+  {
+    "id": 78,
+    "wasteSource": "Granite waste (offcuts & dust)",
+    "category": "Construction",
+    "businessIdea": "decorative aggregate & tiles",
+    "steps": [
+      "Partner with granite cutting/polishing units for offcut and dust waste",
+      "Use offcuts for small decorative tiles/coasters, and dust as a construction aggregate additive",
+      "Sell to interior decor retailers and construction suppliers"
+    ]
+  },
+  {
+    "id": 79,
+    "wasteSource": "Stone crusher dust waste",
+    "category": "Other",
+    "businessIdea": "paver blocks",
+    "steps": [
+      "Tie up with stone crushing units for dust waste (often a disposal cost for them)",
+      "Blend with cement in a small paver-block moulding unit",
+      "Sell to local contractors and landscaping companies for driveways/walkways"
+    ]
+  },
+  {
+    "id": 80,
+    "wasteSource": "Broken brick/masonry waste",
+    "category": "Construction",
+    "businessIdea": "recycled construction aggregate",
+    "steps": [
+      "Partner with demolition contractors for broken brick waste",
+      "Crush into recycled aggregate using a small crusher",
+      "Sell to construction contractors for non-structural fill and road-base use"
+    ]
+  },
+  {
+    "id": 81,
+    "wasteSource": "Asphalt/road milling waste (RAP)",
+    "category": "Other",
+    "businessIdea": "recycled asphalt supply",
+    "steps": [
+      "Tie up with road contractors/municipal bodies doing resurfacing work for reclaimed asphalt pavement (RAP)",
+      "Process and blend RAP with fresh material at a small mixing facility (or supply raw RAP to an existing asphalt plant)",
+      "Sell to road-construction contractors, citing cost savings over virgin material"
+    ]
+  },
+  {
+    "id": 82,
+    "wasteSource": "Used engine/motor oil waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "re-refined base oil supply",
+    "steps": [
+      "Set up collection points at auto workshops and service centres for used oil (regulated — check local hazardous-waste handling rules)",
+      "Act as a registered collection agent/aggregator supplying an authorised re-refining plant rather than refining it yourself",
+      "Build recurring collection contracts with workshop chains"
+    ]
+  },
+  {
+    "id": 83,
+    "wasteSource": "Aluminium foil & can waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "recycled aluminium ingot supply",
+    "steps": [
+      "Partner with restaurants, caterers and scrap dealers for foil/can waste",
+      "Sort, clean and bale the aluminium",
+      "Sell to an existing aluminium smelter/recycler (such as Gravita's aluminium division) as a bulk feedstock supplier"
+    ]
+  },
+  {
+    "id": 84,
+    "wasteSource": "Wine cork waste",
+    "category": "Construction",
+    "businessIdea": "cork craft products & flooring tiles",
+    "steps": [
+      "Tie up with restaurants, bars and wineries for used cork collection",
+      "Grind corks and press into craft items (coasters, boards) or cork flooring tiles using a small heat-press",
+      "Sell to home-decor retailers and eco-building material buyers"
+    ]
+  },
+  {
+    "id": 85,
+    "wasteSource": "Oilseed cake waste (mustard/groundnut extraction residue)",
+    "category": "Food & Agricultural",
+    "businessIdea": "organic fertilizer & cattle feed",
+    "steps": [
+      "Partner with oil mills for leftover cake after oil extraction",
+      "Package directly as cattle feed (minimal processing) or compost into organic fertilizer",
+      "Sell to dairies and organic farms"
+    ]
+  },
+  {
+    "id": 86,
+    "wasteSource": "Sewage/wastewater treatment sludge",
+    "category": "Other",
+    "businessIdea": "biogas & fertilizer pellets",
+    "steps": [
+      "Partner with a municipal or industrial sewage treatment plant for sludge off-take (regulated — ensure proper permits)",
+      "Process through an anaerobic digester for biogas, with digested solids dried and pelletised as fertilizer",
+      "Sell biogas locally and fertilizer pellets to farms/nurseries"
+    ]
+  },
+  {
+    "id": 87,
+    "wasteSource": "Kitchen/organic waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "Black Soldier Fly larvae for animal feed",
+    "steps": [
+      "Tie up with restaurants, canteens and hostels for daily organic waste",
+      "Set up a small Black Soldier Fly rearing unit — the larvae consume the waste and are themselves a high-protein feed ingredient",
+      "Sell larvae/larvae meal to poultry and fish feed manufacturers, and the residual compost to farms"
+    ]
+  },
+  {
+    "id": 88,
+    "wasteSource": "Poultry litter waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "biogas & organic fertilizer",
+    "steps": [
+      "Partner with poultry farms for litter (bedding + droppings) off-take",
+      "Process through a biogas digester for energy, with slurry sold as fertilizer, or simply compost and package as organic fertilizer if a digester isn't feasible yet",
+      "Sell fertilizer to nearby farms and nurseries"
+    ]
+  },
+  {
+    "id": 89,
+    "wasteSource": "Dairy whey waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "whey protein powder",
+    "steps": [
+      "Partner with paneer/cheese-making units and dairies for whey (often just drained away)",
+      "Start by supplying raw whey to an existing protein-processing facility",
+      "Consider your own filtration/drying setup for whey protein powder once supply volumes justify the equipment investment"
+    ]
+  },
+  {
+    "id": 90,
+    "wasteSource": "Dairy processing sludge waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "biogas & fertilizer",
+    "steps": [
+      "Tie up with dairy plants for processing sludge/effluent waste",
+      "Process through a biogas digester for energy recovery",
+      "Sell digested slurry as liquid fertilizer to nearby farms"
+    ]
+  },
+  {
+    "id": 91,
+    "wasteSource": "Fish scale & skin waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "collagen extraction feedstock",
+    "steps": [
+      "Partner with fish markets/processing units for scale and skin waste (usually discarded)",
+      "Clean and dry the waste, supply as feedstock to an existing collagen-extraction facility, or start basic gelatin extraction yourself with simple equipment",
+      "Sell to cosmetic and nutraceutical formulators"
+    ]
+  },
+  {
+    "id": 92,
+    "wasteSource": "Shrimp/crab shell waste",
+    "category": "Other",
+    "businessIdea": "chitosan extraction feedstock",
+    "steps": [
+      "Tie up with seafood processing units for shell waste (a disposal cost for them)",
+      "Clean and dry shells, supply as feedstock to an existing chitosan-extraction facility",
+      "Chitosan buyers include water-treatment, agriculture and cosmetic industries — approach through existing processors first before investing in extraction equipment yourself"
+    ]
+  },
+  {
+    "id": 93,
+    "wasteSource": "Oyster/mussel shell waste",
+    "category": "Other",
+    "businessIdea": "calcium supplement & agricultural lime",
+    "steps": [
+      "Partner with seafood restaurants and processing units for shell waste",
+      "Clean, dry and grind shells into calcium powder for soil amendment/agricultural lime, or a food-grade supplement (needs FSSAI approval for the latter)",
+      "Sell to organic farms, nurseries and supplement brands"
+    ]
+  },
+  {
+    "id": 94,
+    "wasteSource": "Agricultural mulch film/greenhouse poly waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic sheeting",
+    "steps": [
+      "Tie up with farms using plastic mulch/greenhouse film for end-of-season collection (a growing disposal problem as mulch-film use increases)",
+      "Clean (remove soil residue) and bale the film",
+      "Sell to an existing plastic-film recycler as feedstock, or invest in your own washing/pelletising line once volumes are consistent"
+    ]
+  },
+  {
+    "id": 95,
+    "wasteSource": "Solar panel (end-of-life) waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "glass, metal & silicon recovery",
+    "steps": [
+      "Partner with solar installers/EPC companies for decommissioned panels (a fast-growing waste stream in India)",
+      "Act as a certified collection aggregator rather than dismantling panels yourself, since recovery needs specialised equipment",
+      "Supply collected panels to an authorised e-waste/solar-recycling facility",
+      "Build recurring contracts with solar farm operators for future decommissioning cycles"
+    ]
+  },
+  {
+    "id": 96,
+    "wasteSource": "Wind turbine blade waste",
+    "category": "Other",
+    "businessIdea": "repurposed furniture & playground structures",
+    "steps": [
+      "Tie up with wind farm operators for decommissioned blade sections (a hard-to-recycle waste globally)",
+      "Cut sections into usable panels using industrial saws (or job-work with a fabrication unit)",
+      "Design furniture, bridges or playground pieces from the fibreglass shells",
+      "Pitch to municipalities and parks departments, using the sustainability story as a selling point"
+    ]
+  },
+  {
+    "id": 97,
+    "wasteSource": "Leftover/expired paint waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled blended paint",
+    "steps": [
+      "Set up collection points at hardware stores and construction sites for unused/leftover paint tins",
+      "Sort by type and colour, blend compatible batches into a recycled 'mixed' paint line",
+      "Get quality-tested and sell as a budget interior paint to contractors and low-cost housing projects"
+    ]
+  },
+  {
+    "id": 98,
+    "wasteSource": "Printing press waste (ink trims & paper offcuts)",
+    "category": "Other",
+    "businessIdea": "recycled paper products",
+    "steps": [
+      "Partner with local printing presses for daily paper trim waste",
+      "Sort and pulp the offcuts into recycled notebooks, gift tags or packaging sheets",
+      "Sell to stationery retailers and corporate gifting buyers, highlighting the local upcycling story"
+    ]
+  },
+  {
+    "id": 99,
+    "wasteSource": "Photographic/X-ray film waste",
+    "category": "Other",
+    "businessIdea": "silver recovery feedstock",
+    "steps": [
+      "Tie up with hospitals, diagnostic labs and old photo studios for discarded film (contains recoverable silver)",
+      "Aggregate and supply to an existing licensed silver-recovery facility rather than processing chemicals yourself",
+      "Build standing collection contracts with diagnostic chains for steady supply"
+    ]
+  },
+  {
+    "id": 100,
+    "wasteSource": "Pharma blister-pack foil waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "aluminium-plastic laminate recovery",
+    "steps": [
+      "Partner with pharmacies and pharma packaging units for foil trim waste",
+      "Aggregate and supply to a laminate-separation recycler who recovers the aluminium and plastic layers separately",
+      "Approach pharma companies directly, as many now have EPR obligations for packaging waste"
+    ]
+  },
+  {
+    "id": 101,
+    "wasteSource": "Hospital non-hazardous plastic waste (saline bottles, trays)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled medical-grade plastic",
+    "steps": [
+      "Partner with hospitals for their non-infectious plastic waste stream only (saline bottles, trays, non-clinical packaging) — strictly follow biomedical waste segregation rules",
+      "Collect, clean and supply to an authorised plastic recycler as sorted feedstock",
+      "Build compliance-driven contracts, since hospitals need documented safe disposal"
+    ]
+  },
+  {
+    "id": 102,
+    "wasteSource": "End-of-life vehicle parts (non-engine) waste",
+    "category": "Other",
+    "businessIdea": "refurbished spare parts",
+    "steps": [
+      "Tie up with scrapyards/authorised vehicle scrapping facilities for usable non-engine parts (mirrors, seats, panels)",
+      "Test, clean and refurbish parts for resale",
+      "Sell through auto spare-part markets and online auto-parts marketplaces"
+    ]
+  },
+  {
+    "id": 103,
+    "wasteSource": "Airline/airport catering waste",
+    "category": "Other",
+    "businessIdea": "compost & biogas feedstock",
+    "steps": [
+      "Partner with airport catering units for daily food waste (a large, steady volume)",
+      "Set up a composting or small biogas unit near the source to avoid transport costs",
+      "Sell compost to nurseries/landscaping firms and biogas to nearby facilities"
+    ]
+  },
+  {
+    "id": 104,
+    "wasteSource": "Ship-breaking scrap metal",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled steel supply",
+    "steps": [
+      "Partner with a licensed ship-breaking yard for scrap steel off-take (a major established Indian industry, e.g. Alang)",
+      "Act as a sorting/grading aggregator supplying steel re-rolling mills",
+      "Build long-term supply contracts as mills need consistent grade and volume"
+    ]
+  },
+  {
+    "id": 105,
+    "wasteSource": "Glass bottle waste",
+    "category": "Construction",
+    "businessIdea": "glass tiles & decor items",
+    "steps": [
+      "Tie up with bars, restaurants and event venues for used glass bottle collection",
+      "Crush and either melt-mould into tiles/decor (needs a small kiln) or cut and polish bottles into standalone decor pieces",
+      "Sell through home-decor retailers and Etsy"
+    ]
+  },
+  {
+    "id": 106,
+    "wasteSource": "Ceramic/sanitaryware reject waste",
+    "category": "Construction",
+    "businessIdea": "tiles & construction aggregate",
+    "steps": [
+      "Partner with sanitaryware/tile manufacturing units for reject/broken pieces (a disposal cost for them)",
+      "Crush into aggregate for use in concrete blocks, or repurpose whole rejects into mosaic tiles",
+      "Sell to local construction contractors and decor buyers"
+    ]
+  },
+  {
+    "id": 107,
+    "wasteSource": "Coal ash/cement kiln dust waste",
+    "category": "Construction",
+    "businessIdea": "construction blocks",
+    "steps": [
+      "Partner with thermal power plants or cement kilns for ash/dust off-take",
+      "Blend with cement/lime at a small block-making unit to produce construction blocks",
+      "Sell to local builders as a lower-cost alternative to standard blocks"
+    ]
+  },
+  {
+    "id": 108,
+    "wasteSource": "Coir pith (coconut processing waste)",
+    "category": "Food & Agricultural",
+    "businessIdea": "briquettes & bio-fertilizer",
+    "steps": [
+      "Tie up with coir/coconut fibre extraction units for pith waste (a byproduct they often discard)",
+      "Compress into fuel briquettes, or compost into a bio-fertilizer/soil conditioner",
+      "Sell briquettes to industrial boiler users and fertilizer to nurseries"
+    ]
+  },
+  {
+    "id": 109,
+    "wasteSource": "Palm frond/leaf waste",
+    "category": "Other",
+    "businessIdea": "eco plates & baskets",
+    "steps": [
+      "Partner with palm plantations for fallen frond waste",
+      "Dry and hand-weave into baskets, or hot-press into disposable eco plates",
+      "Sell to caterers, gifting stores and eco-packaging distributors"
+    ]
+  },
+  {
+    "id": 110,
+    "wasteSource": "Sugarcane leaf trash (harvest residue, distinct from bagasse)",
+    "category": "Food & Agricultural",
+    "businessIdea": "paper & packaging pulp",
+    "steps": [
+      "Contract with sugarcane farmers for leaf trash normally burnt in the field",
+      "Bale and supply to a paper/pulp mill as feedstock",
+      "Explore your own small pulping unit once supply and buyer demand are proven"
+    ]
+  },
+  {
+    "id": 111,
+    "wasteSource": "Cotton seed hull waste",
+    "category": "Textile",
+    "businessIdea": "cattle feed",
+    "steps": [
+      "Tie up with cotton-seed oil extraction units for hull waste",
+      "Dry and package as roughage cattle feed with minimal processing",
+      "Sell directly to dairy farms and cattle feed distributors"
+    ]
+  },
+  {
+    "id": 112,
+    "wasteSource": "Sunflower husk waste",
+    "category": "Other",
+    "businessIdea": "fuel briquettes",
+    "steps": [
+      "Partner with sunflower oil mills for husk waste",
+      "Invest in a briquetting machine to compress husk into fuel logs",
+      "Sell to industries using biomass boilers (textile mills, food processors)"
+    ]
+  },
+  {
+    "id": 113,
+    "wasteSource": "Sesame oil cake waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "organic fertilizer & feed",
+    "steps": [
+      "Tie up with sesame (til) oil mills for leftover cake",
+      "Package directly as cattle feed or compost into organic fertilizer",
+      "Sell to dairies and organic farms"
+    ]
+  },
+  {
+    "id": 114,
+    "wasteSource": "Copra (coconut) oil cake waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "cattle feed",
+    "steps": [
+      "Partner with coconut oil mills for copra cake byproduct",
+      "Dry and package as a protein-rich cattle feed supplement",
+      "Sell to dairy cooperatives near coconut-growing regions"
+    ]
+  },
+  {
+    "id": 115,
+    "wasteSource": "Neem seed cake waste",
+    "category": "Other",
+    "businessIdea": "organic pesticide & fertilizer",
+    "steps": [
+      "Tie up with neem oil extraction units for seed cake",
+      "Grind and package as a natural pest-repellent soil additive/fertilizer",
+      "Sell to organic farms and nurseries — a well-established organic farming input"
+    ]
+  },
+  {
+    "id": 116,
+    "wasteSource": "Castor oil cake waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "organic fertilizer",
+    "steps": [
+      "Partner with castor oil processing units for cake byproduct",
+      "Dry, grind and package as organic fertilizer (a nitrogen-rich soil input)",
+      "Sell to farms and nurseries, especially organic-certified ones"
+    ]
+  },
+  {
+    "id": 117,
+    "wasteSource": "Turmeric processing waste (rhizome peel)",
+    "category": "Other",
+    "businessIdea": "natural dye & cosmetic extract",
+    "steps": [
+      "Tie up with turmeric processing/powder units for peel waste",
+      "Dry and extract as natural yellow dye, or supply to a cosmetic-extract processor for curcumin-based skincare use",
+      "Sell dye to textile/craft dyers and extract to cosmetic formulators"
+    ]
+  },
+  {
+    "id": 118,
+    "wasteSource": "Ginger processing waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "essential oil extraction feedstock",
+    "steps": [
+      "Partner with ginger processing/oleoresin units for peel and fibre waste",
+      "Supply as feedstock to an existing essential-oil extraction facility, or invest in a small steam distiller once volumes justify it",
+      "Sell oil to aromatherapy and cosmetic buyers"
+    ]
+  },
+  {
+    "id": 119,
+    "wasteSource": "Chili processing waste (stems & seeds)",
+    "category": "Other",
+    "businessIdea": "oleoresin extraction feedstock",
+    "steps": [
+      "Tie up with chili powder/processing units for stem and seed waste",
+      "Supply as feedstock to an oleoresin extraction facility (used in food colouring/spice extracts)",
+      "Approach spice companies directly, as this is an established B2B feedstock category"
+    ]
+  },
+  {
+    "id": 120,
+    "wasteSource": "Coriander/cumin cleaning waste",
+    "category": "Other",
+    "businessIdea": "mulch & compost",
+    "steps": [
+      "Partner with spice cleaning/processing units for chaff and dust waste",
+      "Compost or package directly as agricultural mulch",
+      "Sell to nearby farms and nurseries"
+    ]
+  },
+  {
+    "id": 121,
+    "wasteSource": "Cardamom husk waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "aromatic oil extraction feedstock",
+    "steps": [
+      "Tie up with cardamom processing units for husk waste (retains aromatic compounds)",
+      "Supply to an essential-oil extraction facility, or dry and sell as a natural fragrance/potpourri filler",
+      "Approach aromatherapy and craft buyers"
+    ]
+  },
+  {
+    "id": 122,
+    "wasteSource": "Betel (paan) leaf waste",
+    "category": "Other",
+    "businessIdea": "compost & natural dye",
+    "steps": [
+      "Partner with paan shops and betel leaf markets for discarded/damaged leaves",
+      "Compost for organic fertilizer, or extract as a natural green dye",
+      "Sell dye to textile/craft dyers and compost to nurseries"
+    ]
+  },
+  {
+    "id": 123,
+    "wasteSource": "Areca nut husk waste (distinct from sheath)",
+    "category": "Food & Agricultural",
+    "businessIdea": "coir-substitute fibre",
+    "steps": [
+      "Tie up with areca nut processing units for husk waste",
+      "Extract fibre using a small decorticating machine, similar to coir processing",
+      "Sell fibre to rope, mat and brush manufacturers as a coir substitute"
+    ]
+  },
+  {
+    "id": 124,
+    "wasteSource": "Onion peel waste",
+    "category": "Other",
+    "businessIdea": "natural dye",
+    "steps": [
+      "Partner with vegetable markets, onion traders and food processing units for peel waste",
+      "Dry and boil-extract as a natural brown/orange dye",
+      "Sell to textile and craft dyers, and Easter/festival craft buyers"
+    ]
+  },
+  {
+    "id": 125,
+    "wasteSource": "Garlic peel waste",
+    "category": "Other",
+    "businessIdea": "compost & extract feedstock",
+    "steps": [
+      "Tie up with vegetable markets and food processing units for garlic peel waste",
+      "Compost for organic fertilizer, or supply to a natural-extract processor for garlic oil/allicin extraction",
+      "Sell compost to nurseries and extract to nutraceutical buyers"
+    ]
+  },
+  {
+    "id": 126,
+    "wasteSource": "Papaya peel & seed waste",
+    "category": "Other",
+    "businessIdea": "papain enzyme extraction feedstock",
+    "steps": [
+      "Partner with papaya processing/pulp units for peel and seed waste",
+      "Supply as feedstock to an existing papain (enzyme) extraction facility",
+      "Papain is used in meat tenderisers and pharma — approach food/pharma companies as buyers"
+    ]
+  },
+  {
+    "id": 127,
+    "wasteSource": "Pineapple core & peel waste",
+    "category": "Other",
+    "businessIdea": "bromelain enzyme extraction feedstock",
+    "steps": [
+      "Tie up with pineapple juice/canning units for core and peel waste",
+      "Supply as feedstock to a bromelain-extraction facility (used in food and supplement industries)",
+      "Approach nutraceutical companies directly for offtake"
+    ]
+  },
+  {
+    "id": 128,
+    "wasteSource": "Apple pomace waste",
+    "category": "Other",
+    "businessIdea": "pectin extraction feedstock",
+    "steps": [
+      "Partner with apple juice/cider processing units for pomace waste",
+      "Supply as feedstock to a pectin-extraction facility (used in jams, jellies, pharma)",
+      "Alternatively, dry pomace and sell as a fibre-rich cattle feed supplement"
+    ]
+  },
+  {
+    "id": 129,
+    "wasteSource": "Citrus pulp waste (juice-industry residue)",
+    "category": "Food & Agricultural",
+    "businessIdea": "cattle feed pellets",
+    "steps": [
+      "Tie up with citrus juice processing units for pulp waste (distinct from raw peel-only waste)",
+      "Dry and pelletise into cattle feed",
+      "Sell to dairy farms — citrus pulp pellets are an established feed ingredient internationally"
+    ]
+  },
+  {
+    "id": 130,
+    "wasteSource": "Sunflower seed hull waste",
+    "category": "Other",
+    "businessIdea": "particle board",
+    "steps": [
+      "Partner with sunflower seed processing/snack units for hull waste",
+      "Supply to a particle-board manufacturer as raw material, or invest in a small hot-press unit",
+      "Sell boards to furniture makers"
+    ]
+  },
+  {
+    "id": 131,
+    "wasteSource": "Wheat straw waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "strawboard & packaging panels",
+    "steps": [
+      "Contract with wheat farmers for straw (an alternative to burning)",
+      "Supply straw to a strawboard manufacturer, or invest in a small compression-moulding unit for packaging panels",
+      "Sell panels to furniture and packaging industries"
+    ]
+  },
+  {
+    "id": 132,
+    "wasteSource": "Barley husk waste",
+    "category": "Other",
+    "businessIdea": "cattle feed & briquettes",
+    "steps": [
+      "Tie up with barley processing/malting units for husk waste",
+      "Package as cattle feed roughage, or compress into fuel briquettes",
+      "Sell feed to dairies and briquettes to boiler-using industries"
+    ]
+  },
+  {
+    "id": 133,
+    "wasteSource": "Sorghum stalk waste",
+    "category": "Other",
+    "businessIdea": "fodder & particle board",
+    "steps": [
+      "Contract with sorghum (jowar) farmers for post-harvest stalks",
+      "Sell dried stalks as cattle fodder, or supply to a particle-board manufacturer",
+      "Test fodder demand first — lowest processing needed"
+    ]
+  },
+  {
+    "id": 134,
+    "wasteSource": "Millet husk waste",
+    "category": "Other",
+    "businessIdea": "cattle feed",
+    "steps": [
+      "Partner with millet processing units for husk waste (a growing category as millet demand rises in India)",
+      "Dry and package as cattle feed roughage",
+      "Sell to dairy farms and feed distributors"
+    ]
+  },
+  {
+    "id": 135,
+    "wasteSource": "Cocoa pod husk waste",
+    "category": "Other",
+    "businessIdea": "potash fertilizer & soap-making ash",
+    "steps": [
+      "Tie up with cocoa processing units for pod husk waste",
+      "Burn under controlled conditions to produce potash-rich ash, sold as a soil fertilizer input or to soap-makers as a lye source",
+      "Approach organic farms and small-batch soap makers as buyers"
+    ]
+  },
+  {
+    "id": 136,
+    "wasteSource": "Coffee husk/pulp waste (processing residue)",
+    "category": "Food & Agricultural",
+    "businessIdea": "compost & biogas",
+    "steps": [
+      "Partner with coffee processing units for husk and pulp waste (distinct from used coffee grounds)",
+      "Compost for organic fertilizer, or feed into a small biogas digester",
+      "Sell compost to nurseries and coffee/tea estates"
+    ]
+  },
+  {
+    "id": 137,
+    "wasteSource": "Palm kernel shell waste",
+    "category": "Other",
+    "businessIdea": "activated carbon & solid fuel",
+    "steps": [
+      "Tie up with palm oil processing units for kernel shell waste",
+      "Supply as solid biomass fuel to boiler-using industries, or invest in a small kiln for activated carbon production",
+      "Sell carbon to water-filter and air-purifier manufacturers"
+    ]
+  },
+  {
+    "id": 138,
+    "wasteSource": "Olive pomace waste",
+    "category": "Other",
+    "businessIdea": "biomass fuel & animal feed",
+    "steps": [
+      "Partner with olive oil processing units for pomace waste",
+      "Dry and sell as biomass fuel to boiler users, or as a low-cost animal feed supplement",
+      "Approach nearby industrial fuel buyers first for consistent offtake"
+    ]
+  },
+  {
+    "id": 139,
+    "wasteSource": "Cotton mill dust/lint waste",
+    "category": "Textile",
+    "businessIdea": "nonwoven felt",
+    "steps": [
+      "Tie up with textile spinning mills for dust and lint waste (an occupational-hazard byproduct they need to dispose of)",
+      "Card and press into nonwoven felt sheets",
+      "Sell to furniture padding and insulation buyers"
+    ]
+  },
+  {
+    "id": 140,
+    "wasteSource": "Silk fabric mill offcut waste",
+    "category": "Textile",
+    "businessIdea": "patchwork textile products",
+    "steps": [
+      "Partner with silk weaving/garment units for fabric offcuts",
+      "Hand-stitch into patchwork scarves, cushion covers and accessories",
+      "Sell through Etsy and boutique home-decor stores, emphasising the upcycled-silk story"
+    ]
+  },
+  {
+    "id": 141,
+    "wasteSource": "Post-consumer woollen carpet waste",
+    "category": "Textile",
+    "businessIdea": "recycled yarn",
+    "steps": [
+      "Set up collection points with hotels, offices and carpet retailers for discarded woollen carpets",
+      "Shred and re-spin into recycled yarn (via job-work with a spinning unit initially)",
+      "Sell yarn to weavers and rug manufacturers"
+    ]
+  },
+  {
+    "id": 142,
+    "wasteSource": "Nylon/polyester fabric scrap waste",
+    "category": "Textile",
+    "businessIdea": "recycled synthetic yarn",
+    "steps": [
+      "Tie up with garment factories for synthetic fabric offcuts",
+      "Supply sorted scraps to an existing synthetic-fibre recycler, or shred into stuffing material yourself",
+      "Sell recycled yarn to textile mills and stuffing to cushion/toy makers"
+    ]
+  },
+  {
+    "id": 143,
+    "wasteSource": "Old tarpaulin/tent fabric waste",
+    "category": "Textile",
+    "businessIdea": "bags & covers",
+    "steps": [
+      "Partner with event rental companies and construction sites for worn-out tarpaulin/tent fabric",
+      "Clean and stitch into heavy-duty bags, covers and mats",
+      "Sell to hardware stores and outdoor/camping gear retailers"
+    ]
+  },
+  {
+    "id": 144,
+    "wasteSource": "Old advertising vinyl/flex banner waste",
+    "category": "Other",
+    "businessIdea": "bags & floor mats",
+    "steps": [
+      "Tie up with banner printing shops and event companies for post-campaign flex waste",
+      "Clean and stitch into tote bags, rain covers or floor mats",
+      "Sell to retail stores and offer as a sustainable add-on back to the same advertisers"
+    ]
+  },
+  {
+    "id": 145,
+    "wasteSource": "Used tea bag waste (offices/cafes)",
+    "category": "Food & Agricultural",
+    "businessIdea": "paper pulp & compost",
+    "steps": [
+      "Set up collection points at offices, cafes and hotels for used tea bags",
+      "Separate leaf content for compost and bag material for paper pulp",
+      "Sell compost to nurseries and pulp to recycled-paper makers"
+    ]
+  },
+  {
+    "id": 146,
+    "wasteSource": "Used coffee filter paper waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "compost",
+    "steps": [
+      "Partner with cafes for used paper filter waste",
+      "Compost directly, as filter paper breaks down easily with coffee grounds still attached",
+      "Sell packaged compost to home gardeners and nurseries"
+    ]
+  },
+  {
+    "id": 147,
+    "wasteSource": "Ice cream stick/wooden cutlery waste",
+    "category": "Construction",
+    "businessIdea": "craft items & particle board",
+    "steps": [
+      "Set up collection bins at ice cream parlours, canteens and event venues",
+      "Clean and use sticks for craft kits/decor items, or supply bulk collected wood waste to a particle-board unit",
+      "Sell craft kits online and wood waste to board manufacturers"
+    ]
+  },
+  {
+    "id": 148,
+    "wasteSource": "Restaurant chopstick/wooden waste",
+    "category": "Construction",
+    "businessIdea": "briquettes & craft items",
+    "steps": [
+      "Tie up with restaurants for discarded wooden chopsticks/cutlery",
+      "Clean and either craft into small decor items or compress into fuel briquettes",
+      "Sell briquettes to biomass fuel buyers and craft items via retail/online channels"
+    ]
+  },
+  {
+    "id": 149,
+    "wasteSource": "Bone char waste (sugar refining byproduct)",
+    "category": "Food & Agricultural",
+    "businessIdea": "water filtration media",
+    "steps": [
+      "Partner with sugar refineries that use bone char for decolourising (a byproduct once its filtering capacity is spent)",
+      "Regenerate or supply spent bone char to water-treatment and filtration media manufacturers",
+      "Approach water-purifier companies directly as buyers"
+    ]
+  },
+  {
+    "id": 150,
+    "wasteSource": "Tannery chrome-free shaving waste",
+    "category": "Textile",
+    "businessIdea": "leather board",
+    "steps": [
+      "Tie up with vegetable-tanned (chrome-free) leather units for shaving/offcut waste",
+      "Compress shavings with a binder into leather board sheets using a hot-press",
+      "Sell to shoe insole and accessory manufacturers"
+    ]
+  },
+  {
+    "id": 151,
+    "wasteSource": "Leather buffing dust waste",
+    "category": "Textile",
+    "businessIdea": "leather board filler",
+    "steps": [
+      "Partner with leather finishing units for buffing dust waste",
+      "Supply as a filler material to leather-board or composite-material manufacturers",
+      "Build recurring supply contracts as this waste is generated continuously in tanning clusters"
+    ]
+  },
+  {
+    "id": 152,
+    "wasteSource": "Rexine/synthetic leather scrap waste",
+    "category": "Textile",
+    "businessIdea": "bags & accessories",
+    "steps": [
+      "Tie up with furniture upholstery and bag-manufacturing units for rexine offcuts",
+      "Hand-cut and stitch into small accessories (pouches, wallets, coasters)",
+      "Sell through Etsy and local accessory retailers"
+    ]
+  },
+  {
+    "id": 153,
+    "wasteSource": "Rubber footwear/slipper waste",
+    "category": "Construction",
+    "businessIdea": "recycled rubber mats",
+    "steps": [
+      "Partner with footwear factories and cobbler clusters for rejected/worn rubber footwear",
+      "Shred and compress into doormats and flooring mats using a small moulding press",
+      "Sell to hardware stores and construction suppliers"
+    ]
+  },
+  {
+    "id": 154,
+    "wasteSource": "Old bicycle inner tube waste",
+    "category": "Other",
+    "businessIdea": "bags & accessories",
+    "steps": [
+      "Tie up with cycle repair shops for discarded inner tubes",
+      "Clean and stitch into durable bags, belts and accessories — minimal tooling needed",
+      "Sell via Etsy and craft markets, appealing to the cycling/eco community"
+    ]
+  },
+  {
+    "id": 155,
+    "wasteSource": "Broken glass bangle waste",
+    "category": "Construction",
+    "businessIdea": "glass mosaic art & decor",
+    "steps": [
+      "Partner with bangle manufacturing units/markets for breakage waste (common and usually discarded)",
+      "Sort by colour and set into mosaic art panels or jewelry using basic craft adhesives",
+      "Sell as decor/gifting items via Etsy and craft fairs"
+    ]
+  },
+  {
+    "id": 156,
+    "wasteSource": "CD/DVD waste",
+    "category": "Other",
+    "businessIdea": "mosaic decor art",
+    "steps": [
+      "Set up collection points at offices, IT companies and old electronics shops for discarded CDs/DVDs",
+      "Cut and arrange into reflective mosaic wall art or coasters",
+      "Sell as novelty decor items via craft platforms and gifting stores"
+    ]
+  },
+  {
+    "id": 157,
+    "wasteSource": "Old CRT monitor glass waste",
+    "category": "Construction",
+    "businessIdea": "aggregated glass for authorised lead-glass recycling",
+    "steps": [
+      "Do not process CRT glass yourself — it contains lead and needs authorised handling",
+      "Set up as a certified collection point/aggregator for old CRT monitors and TVs",
+      "Forward collected units to an authorised e-waste recycler with CRT-glass processing capability"
+    ]
+  },
+  {
+    "id": 158,
+    "wasteSource": "Printer/toner cartridge waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "refill, resale & shell plastic recycling",
+    "steps": [
+      "Set up a cartridge collection drive with offices and print shops",
+      "Refill and resell functional cartridges directly — the highest-margin, lowest-equipment route",
+      "Supply non-refillable cartridge shells to a plastic recycler for material recovery"
+    ]
+  },
+  {
+    "id": 159,
+    "wasteSource": "Non-lithium battery waste (alkaline/zinc-carbon)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "metal recovery aggregation",
+    "steps": [
+      "Set up collection bins at retail stores and offices for used household batteries",
+      "Sort by type and store safely (avoid mixing with lithium cells)",
+      "Forward to an authorised battery-recycling facility for metal recovery, building a standing collection contract"
+    ]
+  },
+  {
+    "id": 160,
+    "wasteSource": "Municipal garden/park green waste",
+    "category": "Other",
+    "businessIdea": "mulch & compost",
+    "steps": [
+      "Partner with municipal parks departments or gated communities for leaf and branch trimming waste",
+      "Chip and compost using a simple windrow or bin system",
+      "Sell mulch/compost to nurseries, landscaping companies and back to the same municipal parks"
+    ]
+  },
+  {
+    "id": 161,
+    "wasteSource": "Broken umbrella waste",
+    "category": "Other",
+    "businessIdea": "repurposed rain bags & accessories",
+    "steps": [
+      "Set up a collection drive at offices/residential complexes for broken umbrellas (frame usually breaks before the fabric wears out)",
+      "Salvage the waterproof fabric and stitch into rain bags, pouches and covers",
+      "Sell through Etsy and local monsoon-season pop-ups"
+    ]
+  },
+  {
+    "id": 162,
+    "wasteSource": "Restaurant takeaway container waste (PP/HDPE clamshells)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Partner with food courts and cloud kitchens for clean, sorted container waste",
+      "Shred and supply to a plastic recycler as feedstock, or invest in a small granulating unit as volumes grow",
+      "Sell pellets to packaging manufacturers needing recycled content"
+    ]
+  },
+  {
+    "id": 163,
+    "wasteSource": "Coconut leaf broom (jhadu) waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "compost",
+    "steps": [
+      "Partner with local broom-making units and households for worn-out coconut-leaf brooms",
+      "Shred and compost, as the dried leaf material breaks down easily",
+      "Sell compost to nurseries and home gardeners"
+    ]
+  },
+  {
+    "id": 164,
+    "wasteSource": "Broken ceramic tableware waste",
+    "category": "Construction",
+    "businessIdea": "mosaic tiles & terrazzo",
+    "steps": [
+      "Set up collection points at hotels, restaurants and ceramic shops for broken plates/cups",
+      "Crush and set into terrazzo flooring tiles or mosaic decor panels using a small mould-and-press setup",
+      "Sell to interior decor buyers and boutique hotels"
+    ]
+  },
+  {
+    "id": 165,
+    "wasteSource": "Banana leaf waste (eateries serving food on leaves)",
+    "category": "Food & Agricultural",
+    "businessIdea": "compost & biogas",
+    "steps": [
+      "Partner with restaurants/canteens that serve food on banana leaves for daily collection",
+      "Compost directly, or feed into a small biogas digester alongside other kitchen waste",
+      "Sell compost to nurseries and biogas locally"
+    ]
+  },
+  {
+    "id": 166,
+    "wasteSource": "Sugarcane crushed cane-trash waste (harvesting residue)",
+    "category": "Food & Agricultural",
+    "businessIdea": "mulching material",
+    "steps": [
+      "Contract with sugarcane farmers for leftover cane trash after harvesting (distinct from bagasse, which comes from juice extraction)",
+      "Bale and dry the trash",
+      "Sell as mulching material to farms and nurseries to retain soil moisture"
+    ]
+  },
+  {
+    "id": 167,
+    "wasteSource": "Newsprint pulp waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "moulded packaging & egg trays",
+    "steps": [
+      "Source bulk waste newsprint from newspaper distributors and offices",
+      "Pulp and mould into egg trays or protective packaging inserts using a small pulp-moulding machine",
+      "Sell to poultry farms/egg traders and e-commerce packaging buyers"
+    ]
+  },
+  {
+    "id": 168,
+    "wasteSource": "Post-consumer paper cup/plate waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled pulp packaging",
+    "steps": [
+      "Set up collection bins at cafes, offices and event venues for used paper cups/plates",
+      "Pulp (after removing any plastic lining) and remould into packaging or craft paper",
+      "Sell to eco-packaging distributors"
+    ]
+  },
+  {
+    "id": 169,
+    "wasteSource": "Post-consumer styrofoam cup waste",
+    "category": "Other",
+    "businessIdea": "EPS densification & resale",
+    "steps": [
+      "Partner with cafes and canteens for discarded styrofoam cup waste",
+      "Use an EPS densifier machine to compact waste into dense ingots",
+      "Sell densified EPS ingots to plastic manufacturers as raw material for picture frames, moulding and rulers"
+    ]
+  },
+  {
+    "id": 170,
+    "wasteSource": "Juice/milk carton straw waste (plastic)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Set up school and office collection drives for discarded plastic straws (many now attached to juice/milk cartons)",
+      "Sort, clean and shred",
+      "Supply to a plastic recycler as feedstock for small moulded products"
+    ]
+  },
+  {
+    "id": 171,
+    "wasteSource": "PVC bottle-label sleeve waste",
+    "category": "Other",
+    "businessIdea": "recycled PVC granules",
+    "steps": [
+      "Partner with bottling plants and recycling centres for PVC label sleeves removed during bottle recycling (often discarded separately)",
+      "Sort and shred the sleeves",
+      "Supply to a PVC recycler as feedstock for pipes and fittings manufacturers"
+    ]
+  },
+  {
+    "id": 172,
+    "wasteSource": "Used candle wax waste (events/hotels)",
+    "category": "Other",
+    "businessIdea": "recycled candles",
+    "steps": [
+      "Partner with event planners and hotels for leftover/burnt candle wax",
+      "Melt and re-pour into new candles with fresh wicks and fragrance — low equipment needed",
+      "Sell through gifting stores and Etsy, or back to event companies for future events"
+    ]
+  },
+  {
+    "id": 173,
+    "wasteSource": "Used hotel soap bar waste",
+    "category": "Other",
+    "businessIdea": "reprocessed soap for hygiene donation programs",
+    "steps": [
+      "Partner with hotels for partially used guest soap bars (usually discarded after one use)",
+      "Sanitise, melt and remould into new soap bars using a simple double-boiler process",
+      "Sell to institutions or partner with NGOs distributing hygiene kits — a strong CSR/social-impact story for hotel partners"
+    ]
+  },
+  {
+    "id": 174,
+    "wasteSource": "Shredded currency note waste (banks)",
+    "category": "Other",
+    "businessIdea": "briquettes & craft paper",
+    "steps": [
+      "Approach bank currency-chest facilities or RBI-authorised note-shredding units for shredded note waste (a known, established byproduct category in India)",
+      "Compress into fuel briquettes, or repulp into craft paper/decor items",
+      "Sell briquettes to industrial fuel buyers and craft paper to gifting/stationery brands"
+    ]
+  },
+  {
+    "id": 175,
+    "wasteSource": "Old shoe/footwear waste",
+    "category": "Construction",
+    "businessIdea": "recycled sole rubber & insoles",
+    "steps": [
+      "Set up a shoe take-back collection drive with footwear retailers",
+      "Separate rubber soles from uppers, shred soles into rubber crumb for new insoles or flooring",
+      "Sell crumb rubber to footwear and flooring manufacturers"
+    ]
+  },
+  {
+    "id": 176,
+    "wasteSource": "Old yoga mat waste",
+    "category": "Construction",
+    "businessIdea": "recycled rubber matting",
+    "steps": [
+      "Partner with gyms, yoga studios and fitness retailers for worn-out mats",
+      "Shred and compress into rubber matting for gyms or playgrounds using a small moulding press",
+      "Sell to fitness centres and playground equipment suppliers"
+    ]
+  },
+  {
+    "id": 177,
+    "wasteSource": "Scrap bicycle/metal parts waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "upcycled art & furniture",
+    "steps": [
+      "Tie up with cycle repair shops and scrap dealers for discarded bicycle parts",
+      "Weld and assemble into decorative furniture, garden art or bike-rack installations",
+      "Sell through home-decor retailers and take custom commission orders"
+    ]
+  },
+  {
+    "id": 178,
+    "wasteSource": "Sugar mill press mud (filter cake) waste",
+    "category": "Other",
+    "businessIdea": "organic bio-compost",
+    "steps": [
+      "Partner with sugar mills for press mud, a filtration byproduct usually given away cheaply",
+      "Compost and enrich with other organic inputs to create a bio-fertilizer",
+      "Sell to sugarcane farmers and organic farms — a well-established agri-input category"
+    ]
+  },
+  {
+    "id": 179,
+    "wasteSource": "Unsold vegetable market produce waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "biogas plant feedstock",
+    "steps": [
+      "Partner with wholesale vegetable mandis for daily unsold/rotten produce (a large, steady, often-free waste stream)",
+      "Feed into a biogas digester for energy generation",
+      "Sell biogas locally and the digested slurry as liquid fertilizer to nearby farms"
+    ]
+  },
+  {
+    "id": 180,
+    "wasteSource": "Used cooking oil sludge waste (distinct from clear UCO)",
+    "category": "Food & Agricultural",
+    "businessIdea": "industrial lubricant feedstock",
+    "steps": [
+      "Partner with restaurants and food processing units for oil sludge/sediment waste (lower grade than clear UCO, often discarded separately)",
+      "Aggregate and supply to an industrial lubricant or grease reprocessing facility",
+      "Build standing collection contracts with commercial kitchens"
+    ]
+  },
+  {
+    "id": 181,
+    "wasteSource": "Wood ash waste (cooking/heating residue)",
+    "category": "Construction",
+    "businessIdea": "soil amendment & potash fertilizer",
+    "steps": [
+      "Partner with bakeries, brick kilns and households using wood-fired stoves for ash waste",
+      "Sieve and package as a potash-rich soil amendment",
+      "Sell to organic farms and nurseries"
+    ]
+  },
+  {
+    "id": 182,
+    "wasteSource": "Incense stick ash waste (temples)",
+    "category": "Other",
+    "businessIdea": "soil conditioner & handmade paper",
+    "steps": [
+      "Approach temples directly for daily incense ash waste (distinct from the floral waste stream)",
+      "Package as a soil conditioner, or blend into handmade paper pulp for a unique decorative texture",
+      "Sell to nurseries and craft/gifting buyers"
+    ]
+  },
+  {
+    "id": 183,
+    "wasteSource": "Fine carpentry sawdust waste (distinct fine dust from sawmill offcuts)",
+    "category": "Construction",
+    "businessIdea": "BBQ charcoal briquettes",
+    "steps": [
+      "Partner with furniture workshops for fine sawdust waste (distinct from coarse sawmill waste already used for particle board)",
+      "Compress into charcoal briquettes using a small briquetting press with a binder",
+      "Sell to restaurants, BBQ/grill retailers and export buyers"
+    ]
+  },
+  {
+    "id": 184,
+    "wasteSource": "Coconut shell charcoal waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "export-grade BBQ charcoal briquettes",
+    "steps": [
+      "Tie up with coconut shell processing units for charcoal byproduct",
+      "Compress into uniform briquettes using a hydraulic press",
+      "Sell domestically to restaurants and explore export buyers, as coconut-shell charcoal briquettes are an established Indian export category"
+    ]
+  },
+  {
+    "id": 185,
+    "wasteSource": "Milk pouch/packet plastic waste (LDPE)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled LDPE granules",
+    "steps": [
+      "Set up collection points at dairies, kirana stores and households for washed milk pouch waste",
+      "Clean, shred and supply to an LDPE recycler as feedstock, or invest in a small granulating unit as volumes grow",
+      "Sell granules to packaging film manufacturers"
+    ]
+  },
+  {
+    "id": 186,
+    "wasteSource": "Industrial rubber conveyor belt waste",
+    "category": "Construction",
+    "businessIdea": "flooring mats & belts",
+    "steps": [
+      "Partner with mines, factories and warehouses for worn-out conveyor belt waste (thick, durable rubber, usually scrapped)",
+      "Cut into flooring mats, doormats or gym flooring using basic cutting tools",
+      "Sell to industrial facilities and gyms — the material is already extremely durable, a strong selling point"
+    ]
+  },
+  {
+    "id": 187,
+    "wasteSource": "Feed/grain HDPE sack waste",
+    "category": "Other",
+    "businessIdea": "woven bags & doormats",
+    "steps": [
+      "Tie up with feed mills and grain traders for used HDPE woven sack waste",
+      "Clean and re-stitch into shopping bags, doormats or garden ground covers",
+      "Sell through hardware stores and craft/eco retailers"
+    ]
+  },
+  {
+    "id": 188,
+    "wasteSource": "Onion/garlic jute sack waste",
+    "category": "Textile",
+    "businessIdea": "doormats & bags",
+    "steps": [
+      "Partner with vegetable wholesale markets for discarded jute sacks used for onion/garlic transport",
+      "Clean and repurpose into doormats, tote bags or plant-pot covers",
+      "Sell through hardware and craft/eco retail channels"
+    ]
+  },
+  {
+    "id": 189,
+    "wasteSource": "Cement paper sack waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled craft bags & packaging",
+    "steps": [
+      "Tie up with construction sites and cement dealers for empty paper cement sacks",
+      "Clean and re-stitch into heavy-duty craft bags or packaging material",
+      "Sell to hardware stores and industrial packaging buyers"
+    ]
+  },
+  {
+    "id": 190,
+    "wasteSource": "Waste tyres (distinct product line)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "garden planters & playground equipment",
+    "steps": [
+      "Tie up with tyre shops/scrap dealers for whole waste tyres (a separate, lower-processing product line from crumb-rubber/pyrolysis)",
+      "Clean, cut and paint tyres into planters, swings and playground pieces — minimal equipment needed",
+      "Sell to nurseries, schools and municipal parks departments"
+    ]
+  },
+  {
+    "id": 191,
+    "wasteSource": "Coconut coir fibre waste (rope-making byproduct)",
+    "category": "Food & Agricultural",
+    "businessIdea": "brushes & mats",
+    "steps": [
+      "Partner with coir rope-making units for short/broken fibre waste unsuitable for rope",
+      "Bind into brushes, scrubbers or doormats using simple binding tools",
+      "Sell through hardware stores and eco-retail channels"
+    ]
+  },
+  {
+    "id": 192,
+    "wasteSource": "Old bedsheet/linen hotel waste",
+    "category": "Textile",
+    "businessIdea": "cleaning rags & upcycled textiles",
+    "steps": [
+      "Tie up with hotels and hospitals for worn-out bedsheets and linen (regularly replaced for hygiene standards)",
+      "Cut into cleaning rags for industrial/automotive use, or upcycle into tote bags and cushion covers",
+      "Sell rags to workshops/factories and textile products through retail/Etsy"
+    ]
+  },
+  {
+    "id": 193,
+    "wasteSource": "E-waste circuit board (PCB) waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "precious metal recovery aggregation",
+    "steps": [
+      "Do not attempt chemical extraction yourself — PCB processing for gold/silver/copper recovery needs specialised, authorised facilities",
+      "Set up as a certified collection aggregator for discarded circuit boards from repair shops and offices",
+      "Supply in bulk to an authorised e-waste recycler such as Attero for metal recovery, negotiating a per-kg rate based on board grade"
+    ]
+  },
+  {
+    "id": 194,
+    "wasteSource": "Agricultural greenhouse shading net waste",
+    "category": "Other",
+    "businessIdea": "recycled HDPE mesh products",
+    "steps": [
+      "Partner with farms using shade nets/greenhouse mesh for end-of-life net collection (a growing waste stream as protected farming expands)",
+      "Clean and repurpose into garden fencing, compost bin covers or supply as HDPE feedstock to a recycler",
+      "Sell directly to other farmers and nurseries as a lower-cost fencing option"
+    ]
+  },
+  {
+    "id": 195,
+    "wasteSource": "Household dryer lint waste",
+    "category": "Other",
+    "businessIdea": "fire starters & craft stuffing",
+    "steps": [
+      "Set up a simple collection habit/drive with households or a local laundromat for lint (currently binned every wash)",
+      "Compress lint with a little wax into fire-starter pucks, or bag loose lint as craft/cushion stuffing",
+      "Sell fire starters through camping/hardware stores and online"
+    ]
+  },
+  {
+    "id": 196,
+    "wasteSource": "Household broken plastic toy waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets & upcycled art",
+    "steps": [
+      "Run a toy take-back drive with schools, daycares or toy stores (parents are usually glad to offload broken toys)",
+      "Sort by plastic type, shred and supply to a plastic recycler as feedstock, or repaint/reassemble select toys into novelty decor",
+      "Sell pellets to manufacturers and decor pieces via craft channels"
+    ]
+  },
+  {
+    "id": 197,
+    "wasteSource": "Household broken/worn-down crayon waste",
+    "category": "Other",
+    "businessIdea": "new recycled crayons",
+    "steps": [
+      "Partner with schools and daycares for stub/broken crayon collection (a near-endless free supply)",
+      "Melt and remould into new multi-colour crayons using simple silicone moulds",
+      "Sell to schools, gifting companies and stationery retailers"
+    ]
+  },
+  {
+    "id": 198,
+    "wasteSource": "Household empty glass jar waste (jam/pickle/sauce)",
+    "category": "Construction",
+    "businessIdea": "cleaned reusable jars for cottage-industry packagers",
+    "steps": [
+      "Set up a neighbourhood collection drive for washed, undamaged glass jars",
+      "Clean, sterilise and sort by size",
+      "Sell in bulk to home-based pickle, jam, honey or candle makers who need packaging — a recurring low-cost supply line"
+    ]
+  },
+  {
+    "id": 199,
+    "wasteSource": "Household worn/broken spectacle-frame waste (take-back drive)",
+    "category": "Construction",
+    "businessIdea": "recycled frames & lens glass",
+    "steps": [
+      "Partner with opticians or run a community donation drive for old glasses",
+      "Sort functional frames for cleaning/donation to vision-care NGOs, and broken ones for metal/plastic frame recycling and lens-glass aggregation",
+      "Approach eyewear recyclers or vision-charity programs as your offtake channel"
+    ]
+  },
+  {
+    "id": 200,
+    "wasteSource": "Household furniture offcut/broken-wood waste",
+    "category": "Construction",
+    "businessIdea": "mulch & kindling",
+    "steps": [
+      "Set up a collection point with local carpenters, movers or households discarding broken furniture",
+      "Chip unusable pieces into mulch, and cut usable scraps into bundled kindling wood",
+      "Sell mulch to nurseries and kindling to households/campsite suppliers"
+    ]
+  },
+  {
+    "id": 201,
+    "wasteSource": "Household worn-out curtain waste",
+    "category": "Other",
+    "businessIdea": "tote bags & cleaning cloths",
+    "steps": [
+      "Run a donation drive for old curtains via housing societies or resale groups",
+      "Wash and cut into tote bags, cleaning cloths or patchwork accessories",
+      "Sell bags via Etsy/local markets and cloths to workshops/car garages"
+    ]
+  },
+  {
+    "id": 202,
+    "wasteSource": "Household worn-out bath towel waste",
+    "category": "Textile",
+    "businessIdea": "cleaning rags & pet-shelter donation textiles",
+    "steps": [
+      "Partner with housing societies and gyms for worn towel donations",
+      "Cut usable sections into cleaning rags for sale to workshops, and donate softer scraps to animal shelters (a strong CSR angle)",
+      "Package rags in bulk for sale to auto garages and factories"
+    ]
+  },
+  {
+    "id": 203,
+    "wasteSource": "Household empty medicine blister-strip waste (take-back drive)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "aluminium-plastic laminate recovery",
+    "steps": [
+      "Set up a collection box at local pharmacies for empty blister strips (currently just thrown out)",
+      "Aggregate and supply to a laminate-separation recycler who recovers the aluminium foil and plastic layers separately",
+      "Approach pharma companies with EPR packaging obligations as a downstream buyer of the recovered material"
+    ]
+  },
+  {
+    "id": 204,
+    "wasteSource": "Household expired pantry/spice waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "compost",
+    "steps": [
+      "Partner with housing societies for a monthly 'expired pantry item' collection drive",
+      "Compost food-safe expired items (spices, grains, flour) using a simple home-composting or community composting setup",
+      "Sell finished compost to nurseries and home gardeners"
+    ]
+  },
+  {
+    "id": 205,
+    "wasteSource": "Household kitchen aluminium foil waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "aggregated aluminium scrap supply",
+    "steps": [
+      "Set up a neighbourhood collection point for clean, used aluminium foil",
+      "Bale and clean the foil to remove food residue",
+      "Sell in bulk to an aluminium smelter/recycler such as Gravita as feedstock"
+    ]
+  },
+  {
+    "id": 206,
+    "wasteSource": "Household empty metal paint-tin waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled metal scrap",
+    "steps": [
+      "Partner with local painters and hardware stores for empty paint tin collection",
+      "Clean out residue safely and bale the metal",
+      "Sell to scrap metal traders or directly to a metal recycler as sorted feedstock"
+    ]
+  },
+  {
+    "id": 207,
+    "wasteSource": "Household plastic milk-bottle cap & bread-tag waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "craft items & recycled plastic pellets",
+    "steps": [
+      "Set up school/community collection drives for bottle caps and bread tags (both are commonly discarded, colourful plastics)",
+      "Sort by colour, and either mould into small craft items or shred and sell to a plastics recycler",
+      "Sell craft items via Etsy/local fairs, and shredded material in bulk to recyclers"
+    ]
+  },
+  {
+    "id": 208,
+    "wasteSource": "Household broken key & small metal-hardware waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "upcycled keychains & metal art",
+    "steps": [
+      "Partner with locksmiths and hardware shops for discarded keys and small metal parts",
+      "Clean and assemble into keychains, wind chimes or small decor pieces using basic tools",
+      "Sell via Etsy and local craft markets"
+    ]
+  },
+  {
+    "id": 209,
+    "wasteSource": "Household empty cosmetic bottle waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic/glass aggregation",
+    "steps": [
+      "Set up a take-back collection point with beauty salons or via a community drive",
+      "Clean and sort bottles by plastic type or glass",
+      "Sell sorted material in bulk to a plastics/glass recycler as feedstock"
+    ]
+  },
+  {
+    "id": 210,
+    "wasteSource": "Household used LDPE grocery bag waste",
+    "category": "Construction",
+    "businessIdea": "recycled bags & eco-bricks",
+    "steps": [
+      "Set up a collection bin at kirana stores/housing societies for clean plastic grocery bags",
+      "Either stuff bags tightly into bottles to make 'eco-bricks' for low-cost construction, or bale for supply to an LDPE recycler",
+      "Sell eco-bricks to community construction projects and baled LDPE to recyclers"
+    ]
+  },
+  {
+    "id": 211,
+    "wasteSource": "Supermarket/grocery-store unsold-but-safe expired packaged food",
+    "category": "Food & Agricultural",
+    "businessIdea": "diverted animal-feed supply",
+    "steps": [
+      "Partner with supermarkets/grocery stores for unsold packaged food nearing or past 'best before' dates that remains safe for animal consumption",
+      "Set up a sorting and collection process (checking packaging integrity)",
+      "Supply to registered animal-feed processors or farms as a lower-cost feed input, in line with local food-safety rules"
+    ]
+  },
+  {
+    "id": 212,
+    "wasteSource": "Supermarket damaged plastic crate & pallet waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "repaired/resold crates",
+    "steps": [
+      "Tie up with supermarkets and wholesale markets for damaged plastic crates and pallets",
+      "Repair using simple heat-welding or replacement-part techniques",
+      "Resell refurbished crates back to markets and small retailers at a discount to new"
+    ]
+  },
+  {
+    "id": 213,
+    "wasteSource": "Office water-cooler disposable cup waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Partner with office buildings and co-working spaces for daily disposable cup collection",
+      "Sort, clean and shred the plastic cups",
+      "Supply to a plastics recycler as feedstock for new moulded products"
+    ]
+  },
+  {
+    "id": 214,
+    "wasteSource": "Office shredded-paper waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "packaging filler & insulation material",
+    "steps": [
+      "Tie up with offices and banks for their daily paper-shredding waste (usually just discarded)",
+      "Bag shredded paper as protective packaging filler, or compress into insulation panels",
+      "Sell filler to e-commerce/courier companies and panels to construction buyers"
+    ]
+  },
+  {
+    "id": 215,
+    "wasteSource": "Office ID badge/lanyard plastic waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic",
+    "steps": [
+      "Partner with corporate offices and event companies for expired ID badge and lanyard collection (generated in bulk during onboarding/events)",
+      "Sort by plastic type and shred",
+      "Supply to a plastics recycler as feedstock for new badges or small moulded goods"
+    ]
+  },
+  {
+    "id": 216,
+    "wasteSource": "School/college broken stationery & used notebook waste",
+    "category": "Other",
+    "businessIdea": "recycled paper products",
+    "steps": [
+      "Run a stationery take-back drive at schools/colleges at the end of each academic year",
+      "Separate paper for pulping into new notebooks, and salvage functional pens/instruments for donation",
+      "Sell recycled notebooks back to the same schools and stationery retailers"
+    ]
+  },
+  {
+    "id": 217,
+    "wasteSource": "Cinema/multiplex popcorn box & cup waste",
+    "category": "Food & Agricultural",
+    "businessIdea": "recycled paper/plastic packaging",
+    "steps": [
+      "Partner with cinema halls for daily popcorn box and drink cup waste (a large, consistent volume)",
+      "Sort paper-based boxes for pulping and plastic cups for recycling",
+      "Sell pulp to packaging manufacturers and recycled plastic to moulders"
+    ]
+  },
+  {
+    "id": 218,
+    "wasteSource": "Bakery stale bread waste",
+    "category": "Other",
+    "businessIdea": "bread-waste beer brewing feedstock",
+    "steps": [
+      "Tie up with bakeries and sandwich shops for daily unsold/stale bread (currently thrown out)",
+      "Supply as a starch feedstock to a craft brewery that brews 'surplus bread beer' (an established sustainability model globally), or dry and grind into breadcrumbs for resale",
+      "Approach local craft breweries or food companies as your buyer"
+    ]
+  },
+  {
+    "id": 219,
+    "wasteSource": "Cafe/restaurant used paper napkin waste",
+    "category": "Other",
+    "businessIdea": "compostable pulp",
+    "steps": [
+      "Partner with cafes and restaurants for used paper napkin collection (food-soiled, so compost rather than recycle into paper)",
+      "Compost through an industrial or community composting setup",
+      "Sell finished compost to nurseries and landscaping companies"
+    ]
+  },
+  {
+    "id": 220,
+    "wasteSource": "Restaurant/catering disposable plastic cutlery waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Tie up with catering companies and food courts for used plastic cutlery (a high-volume, single-use waste stream)",
+      "Wash, sort and shred by plastic type",
+      "Supply to a plastics recycler as feedstock, and pitch caterers on switching to your recycled or compostable cutlery line as a follow-on product"
+    ]
+  },
+  {
+    "id": 221,
+    "wasteSource": "Florist shop unsold/wilted flower waste",
+    "category": "Other",
+    "businessIdea": "compost & natural dye",
+    "steps": [
+      "Partner directly with florist shops and flower markets for daily unsold/wilted stock (distinct, business-side channel from temple floral waste)",
+      "Compost the bulk of it, and separately extract natural dye from colour-rich varieties via simple water extraction",
+      "Sell compost to nurseries and dye to textile/craft buyers"
+    ]
+  },
+  {
+    "id": 222,
+    "wasteSource": "Salon hair-colour foil & tube waste",
+    "category": "Other",
+    "businessIdea": "recycled aluminium & laminate recovery",
+    "steps": [
+      "Partner with hair salons for used colouring foil and empty product tubes (a daily waste stream, distinct from hair clippings)",
+      "Clean and sort foil for aluminium recycling, and tubes for laminate/plastic recovery",
+      "Sell sorted material in bulk to the relevant recyclers"
+    ]
+  },
+  {
+    "id": 223,
+    "wasteSource": "Pet-grooming salon pet-hair waste",
+    "category": "Other",
+    "businessIdea": "felting material & oil-spill absorbent booms",
+    "steps": [
+      "Tie up with pet grooming salons for daily fur/hair waste (currently binned)",
+      "Clean and felt into insulation material or craft it into oil-spill absorbent booms similar to the human-hair model",
+      "Sell felting material to craft buyers and booms to environmental clean-up companies"
+    ]
+  },
+  {
+    "id": 224,
+    "wasteSource": "Laundromat/dry-cleaner plastic garment-cover waste",
+    "category": "Textile",
+    "businessIdea": "recycled LDPE",
+    "steps": [
+      "Partner with dry cleaners for the thin plastic garment covers used after each cleaning cycle (a daily, high-volume waste)",
+      "Collect, clean and bale the LDPE film",
+      "Supply to a plastic-film recycler as feedstock, or pitch the dry cleaner on switching to a reusable cover system you supply"
+    ]
+  },
+  {
+    "id": 225,
+    "wasteSource": "Laundromat/dry-cleaner broken plastic hanger waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic hangers",
+    "steps": [
+      "Tie up with dry cleaners and garment stores for damaged/excess plastic hanger collection",
+      "Sort by plastic type, shred and remould into new hangers using a small injection-moulding setup (or supply shredded material to an existing hanger manufacturer)",
+      "Sell finished hangers back to dry cleaners and retailers at a lower cost than new"
+    ]
+  },
+  {
+    "id": 226,
+    "wasteSource": "Car-wash business oil-water separator sludge",
+    "category": "Other",
+    "businessIdea": "industrial lubricant/fuel feedstock",
+    "steps": [
+      "Partner with car washes and auto workshops for their oil-water separator sludge off-take (a regulated waste — check local hazardous-waste handling rules)",
+      "Act as a registered collection aggregator supplying an authorised oil-reprocessing facility",
+      "Build recurring collection contracts with workshop chains for steady volume"
+    ]
+  },
+  {
+    "id": 227,
+    "wasteSource": "Gym/fitness-studio towel waste",
+    "category": "Textile",
+    "businessIdea": "cleaning rags & upcycled textiles",
+    "steps": [
+      "Tie up with gyms and fitness studios for worn-out towels (regularly replaced for hygiene)",
+      "Cut into cleaning rags for industrial/automotive sale, or upcycle softer sections into gym mats/covers",
+      "Sell rags to workshops and mats back to fitness studios"
+    ]
+  },
+  {
+    "id": 228,
+    "wasteSource": "Pharmacy non-medicine packaging waste (cardboard/plastic)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled packaging material",
+    "steps": [
+      "Partner with pharmacies for their daily outer-packaging waste (cartons, blister backing cardboard, plastic wrap — non-medicine packaging only)",
+      "Sort and bale by material type",
+      "Supply to paper and plastic recyclers as feedstock; approach pharma companies for standing collection contracts tied to their EPR targets"
+    ]
+  },
+  {
+    "id": 229,
+    "wasteSource": "Furniture store damaged packaging waste (cardboard + styrofoam)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled packaging materials",
+    "steps": [
+      "Tie up with furniture retailers and warehouses for damaged/excess packaging waste",
+      "Separate cardboard for pulping and styrofoam for EPS densification",
+      "Sell cardboard pulp to box manufacturers and densified EPS to plastic moulders"
+    ]
+  },
+  {
+    "id": 230,
+    "wasteSource": "Household toothpaste tube waste (take-back drive)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "aluminium-plastic laminate recovery",
+    "steps": [
+      "Set up a household toothpaste-tube collection drive via housing societies or dental clinics",
+      "Aggregate and supply to a laminate-separation recycler who recovers the layered materials",
+      "Approach consumer-goods brands with take-back/EPR programs (similar to the TerraCycle model) as a potential funding/offtake partner"
+    ]
+  },
+  {
+    "id": 231,
+    "wasteSource": "Household disposable razor waste (collection drive)",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic/metal aggregation",
+    "steps": [
+      "Partner with salons/barbershops or run a household collection drive for used disposable razors (a hard-to-recycle mixed-material item)",
+      "Sort the plastic handle from the metal blade cartridge safely",
+      "Supply sorted plastic and metal separately to the relevant recyclers"
+    ]
+  },
+  {
+    "id": 232,
+    "wasteSource": "Household food-delivery packaging waste (bags, containers)",
+    "category": "Food & Agricultural",
+    "businessIdea": "recycled paper/plastic",
+    "steps": [
+      "Set up a neighbourhood collection drive for clean food-delivery bags and containers",
+      "Sort by material (paper bags vs. plastic containers) and bale",
+      "Supply paper to a pulping recycler and plastic containers to a plastics recycler as feedstock"
+    ]
+  },
+  {
+    "id": 233,
+    "wasteSource": "Courier/logistics company bubble-wrap & packaging waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled LDPE/PE foam",
+    "steps": [
+      "Partner with courier hubs and e-commerce warehouses for daily bubble-wrap and foam packaging waste",
+      "Collect, clean and bale the film/foam material",
+      "Supply to an LDPE/PE recycler as feedstock, or reuse clean bubble wrap directly by reselling it back to small businesses for their own shipping needs"
+    ]
+  },
+  {
+    "id": 234,
+    "wasteSource": "E-commerce return-centre damaged packaging waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled packaging material",
+    "steps": [
+      "Tie up with e-commerce return/processing centres for damaged box and packaging waste generated during returns processing",
+      "Sort cardboard, plastic film and foam separately",
+      "Supply each stream to the matching recycler, building a standing collection contract given the high daily volume"
+    ]
+  },
+  {
+    "id": 235,
+    "wasteSource": "Coworking-space broken furniture & electronics waste",
+    "category": "E-Waste",
+    "businessIdea": "refurbished office furniture resale",
+    "steps": [
+      "Partner with coworking spaces and offices relocating or upgrading for discarded furniture and small electronics",
+      "Repair and refinish usable furniture; route broken electronics to an authorised e-waste recycler",
+      "Resell refurbished furniture to startups and small offices at a lower price than new"
+    ]
+  },
+  {
+    "id": 236,
+    "wasteSource": "Optical shop old spectacle-frame waste",
+    "category": "Construction",
+    "businessIdea": "recycled frames & lens glass",
+    "steps": [
+      "Partner directly with optical shops for old-frame exchange programs (many customers trade in old glasses when buying new ones)",
+      "Sort functional frames for donation/resale and broken ones for material recycling (metal, plastic, lens glass)",
+      "Approach vision-care NGOs for the donation channel and material recyclers for the rest"
+    ]
+  },
+  {
+    "id": 237,
+    "wasteSource": "Grocery-store cardboard produce-crate waste",
+    "category": "Other",
+    "businessIdea": "repaired/resold crates",
+    "steps": [
+      "Tie up with grocery stores and wholesale mandis for damaged cardboard produce crates",
+      "Reinforce and repair usable crates with tape/staples for reuse, and pulp unusable ones",
+      "Resell repaired crates back to vendors at a discount, and sell pulped cardboard to paper recyclers"
+    ]
+  },
+  {
+    "id": 238,
+    "wasteSource": "Household broken plastic clothes-peg/clip waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Set up a simple community collection drive for broken plastic clothes pegs and clips",
+      "Sort by plastic type and shred",
+      "Supply shredded material in bulk to a plastics recycler as feedstock"
+    ]
+  },
+  {
+    "id": 239,
+    "wasteSource": "Household worn bedsheet/pillowcase waste (non-hotel)",
+    "category": "Textile",
+    "businessIdea": "cleaning rags & quilting fabric",
+    "steps": [
+      "Run a donation drive through housing societies or resale apps for old bedsheets and pillowcases",
+      "Wash and cut into cleaning rags for workshops, or piece together into patchwork quilts",
+      "Sell rags in bulk and quilts through Etsy/local markets"
+    ]
+  },
+  {
+    "id": 240,
+    "wasteSource": "Household broken plastic bucket/mug waste",
+    "category": "Plastic & Industrial",
+    "businessIdea": "recycled plastic pellets",
+    "steps": [
+      "Set up a neighbourhood collection point for broken plastic household items (buckets, mugs, stools)",
+      "Sort by plastic type, clean and shred",
+      "Supply shredded material to a plastics recycler as feedstock"
+    ]
+  },
+  {
+    "id": 241,
+    "wasteSource": "Household expired cosmetic sample sachet waste",
+    "category": "Other",
+    "businessIdea": "recycled multilayer laminate",
+    "steps": [
+      "Partner with beauty salons and spas for expired/used sample sachet collection (a hard-to-recycle multilayer material)",
+      "Aggregate and supply to a laminate-separation recycler",
+      "Approach cosmetic brands with sustainability/EPR programs as a potential funding partner, similar to the TerraCycle model"
+    ]
+  },
+  {
+    "id": 242,
+    "wasteSource": "Bank/ATM thermal receipt paper-roll waste",
+    "category": "Other",
+    "businessIdea": "recycled paper pulp",
+    "steps": [
+      "Partner with banks, ATMs and retail checkout counters for discarded thermal receipt roll waste",
+      "Aggregate and supply to a paper recycler as pulping feedstock (note: BPA-coated thermal paper needs a recycler equipped to handle it)",
+      "Build standing collection contracts with retail chains and bank branches"
+    ]
+  },
+  {
+    "id": 243,
+    "wasteSource": "Household worn-out doormat waste",
+    "category": "Construction",
+    "businessIdea": "recycled rubber/fibre matting",
+    "steps": [
+      "Set up a neighbourhood collection drive for worn-out rubber or coir doormats",
+      "Shred rubber mats into crumb rubber and coir mats into loose fibre",
+      "Supply crumb rubber to flooring manufacturers and coir fibre to mat-weaving units"
+    ]
+  },
+  {
+    "id": 244,
+    "wasteSource": "Household unused/expired greeting card & wrapping-paper waste",
+    "category": "Other",
+    "businessIdea": "recycled craft paper & gift tags",
+    "steps": [
+      "Run a post-festive-season collection drive (after Diwali/Christmas/birthdays) for leftover wrapping paper and greeting cards via housing societies",
+      "Sort, pulp or hand-cut into new gift tags and craft paper",
+      "Sell to gifting companies and stationery retailers ahead of the next festive season"
+    ]
+  }
+]

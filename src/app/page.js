@@ -1,69 +1,115 @@
-import Image from "next/image";
+import Link from 'next/link';
+import HeroSection from '@/components/HeroSection';
+import HowItWorksSection from '@/components/HowItWorksSection';
+import IdeaCard from '@/components/IdeaCard';
+import ListingCard from '@/components/ListingCard';
+import ImpactStats from '@/components/ImpactStats';
+import { getIdeas, getListings } from '@/lib/data-service';
 
 export default function Home() {
+  const featuredIdeas = getIdeas().slice(0, 6);
+  const recentListings = getListings().slice(0, 4);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.js
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <div>
+      {/* Hero Section */}
+      <HeroSection />
+
+      {/* Animated Impact Stats */}
+      <ImpactStats />
+
+      {/* How It Works */}
+      <HowItWorksSection />
+
+      {/* Featured Ideas Preview */}
+      <section className="py-16 bg-surface">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-10 gap-4">
+            <div>
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-royal/10 text-royal text-xs font-bold uppercase tracking-wider mb-2">
+                💡 Innovation Blueprints
+              </div>
+              <h2 className="text-3xl font-extrabold text-charcoal sm:text-4xl">
+                Featured Business Ideas
+              </h2>
+              <p className="text-charcoal-light text-sm sm:text-base mt-1">
+                Explore proven ways to turn waste streams into commercial ventures
+              </p>
+            </div>
+            <Link
+              href="/ideas"
+              className="text-royal font-bold text-sm hover:text-royal-dark flex items-center gap-1 group"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+              Browse all 240+ ideas
+              <span className="group-hover:translate-x-1 transition-transform">→</span>
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {featuredIdeas.map((idea) => (
+              <IdeaCard key={idea.id} idea={idea} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Active Marketplace Preview */}
+      <section className="py-16 bg-white border-t border-border">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between mb-10 gap-4">
+            <div>
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-mint/30 text-emerald-800 text-xs font-bold uppercase tracking-wider mb-2">
+                ⚡ Active Listings
+              </div>
+              <h2 className="text-3xl font-extrabold text-charcoal sm:text-4xl">
+                Recent Marketplace Posts
+              </h2>
+              <p className="text-charcoal-light text-sm sm:text-base mt-1">
+                Real waste generators and entrepreneurs looking to trade materials
+              </p>
+            </div>
+            <Link
+              href="/listings"
+              className="text-royal font-bold text-sm hover:text-royal-dark flex items-center gap-1 group"
             >
-              Learning
-            </a>{" "}
-            center.
+              View all listings
+              <span className="group-hover:translate-x-1 transition-transform">→</span>
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {recentListings.map((listing) => (
+              <ListingCard key={listing.id} listing={listing} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Banner */}
+      <section className="py-16 bg-gradient-to-r from-royal to-royal-dark text-white">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
+          <h2 className="text-3xl sm:text-4xl font-extrabold">
+            Have Waste or Need Raw Material?
+          </h2>
+          <p className="text-royal-light text-base sm:text-lg max-w-2xl mx-auto">
+            Join WasteWise today and connect directly with businesses near you. Free to list, free to explore.
           </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center pt-2">
+            <Link
+              href="/post"
+              className="px-8 py-4 bg-white text-royal font-bold rounded-xl shadow-lg hover:bg-royal-light hover:text-white hover:-translate-y-0.5 transition-all duration-200"
+            >
+              Post Your Listing Now
+            </Link>
+            <Link
+              href="/listings"
+              className="px-8 py-4 bg-white/10 text-white font-bold rounded-xl border border-white/20 hover:bg-white/20 hover:-translate-y-0.5 transition-all duration-200"
+            >
+              Browse Marketplace
+            </Link>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </section>
     </div>
   );
 }
