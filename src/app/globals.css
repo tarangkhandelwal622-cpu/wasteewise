@@ -138,6 +138,64 @@ textarea:focus {
   background-clip: text;
 }
 
+/* ─── Gold / Pro Animations ────────────────────── */
+@keyframes goldShimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes goldPulse {
+  0%, 100% { box-shadow: 0 0 8px rgba(251, 191, 36, 0.3); }
+  50%      { box-shadow: 0 0 20px rgba(251, 191, 36, 0.6); }
+}
+
+@keyframes goldGlow {
+  0%, 100% { filter: drop-shadow(0 0 4px rgba(251, 191, 36, 0.2)); }
+  50%      { filter: drop-shadow(0 0 10px rgba(251, 191, 36, 0.5)); }
+}
+
+@keyframes typewriter {
+  from { width: 0; }
+  to   { width: 100%; }
+}
+
+.gold-shimmer {
+  background: linear-gradient(90deg, #f59e0b 0%, #fbbf24 25%, #fde68a 50%, #fbbf24 75%, #f59e0b 100%);
+  background-size: 200% 100%;
+  animation: goldShimmer 2.5s linear infinite;
+}
+
+.gold-shimmer-text {
+  background: linear-gradient(90deg, #f59e0b 0%, #fde68a 40%, #f59e0b 80%);
+  background-size: 200% 100%;
+  animation: goldShimmer 3s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gold-glow {
+  animation: goldPulse 2s ease-in-out infinite;
+}
+
+.gold-border {
+  border: 1.5px solid transparent;
+  background-clip: padding-box;
+  position: relative;
+}
+.gold-border::before {
+  content: '';
+  position: absolute;
+  inset: -1.5px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, #f59e0b, #fbbf24, #f59e0b);
+  z-index: -1;
+}
+
+.pro-dark-bg {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+}
+
 /* ─── Smooth page transitions ───────────────────── */
 main {
   animation: fadeIn 0.2s ease-out;

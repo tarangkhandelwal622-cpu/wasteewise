@@ -13,6 +13,8 @@ const NAV_LINKS = [
   { href: '/how-it-works', label: 'How It Works' },
 ];
 
+const PRO_LINK = { href: '/go-pro', label: '✦ Go Pro' };
+
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
@@ -55,6 +57,17 @@ export default function Navbar() {
                 </Link>
               );
             })}
+            {/* Golden Go Pro tab */}
+            <Link
+              href={PRO_LINK.href}
+              className={`ml-1 px-4 py-2 rounded-lg text-sm font-extrabold transition-all duration-300 ${
+                pathname === PRO_LINK.href
+                  ? 'bg-gradient-to-r from-amber-500 to-yellow-400 text-black shadow-lg shadow-amber-500/25'
+                  : 'gold-shimmer text-black hover:shadow-lg hover:shadow-amber-400/30 hover:scale-105'
+              }`}
+            >
+              {PRO_LINK.label}
+            </Link>
           </div>
 
           {/* Mobile hamburger */}
@@ -109,6 +122,18 @@ export default function Navbar() {
                 </Link>
               );
             })}
+            {/* Golden Go Pro in mobile */}
+            <Link
+              href={PRO_LINK.href}
+              onClick={() => setMobileOpen(false)}
+              className={`block px-4 py-3 rounded-lg text-sm font-extrabold transition-all ${
+                pathname === PRO_LINK.href
+                  ? 'bg-gradient-to-r from-amber-500 to-yellow-400 text-black'
+                  : 'gold-shimmer text-black'
+              }`}
+            >
+              {PRO_LINK.label}
+            </Link>
           </div>
         </div>
       )}
